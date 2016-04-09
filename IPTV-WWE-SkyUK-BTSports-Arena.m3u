@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,WWE Network HQ
+http://osltv.zackapps.com/bk/sniffer/wwe.php?id=1&type=.m3u8
+#EXTINF:-1,SkySport 1
+http://50.97.49.87:1935/apqq22/skysports1lsh/playlist.m3u8
+#EXTINF:-1,SkySport 2
+http://50.97.49.87:1935/apqq22/skysports2lsh/playlist.m3u8
+#EXTINF:-1,SkySport 3
+http://50.97.49.87:1935/apqq22/skysports3lsh/playlist.m3u8
+#EXTINF:-1,SkySport 4
+http://50.97.49.87:1935/apqq22/skysports4lsh/playlist.m3u8
+#EXTINF:-1,SkySport 5
+http://50.97.49.87:1935/apqq22/skysports5lsh/playlist.m3u8
+#EXTINF:-1,SkySport f1
+http://50.97.49.87:1935/apqq22/vskysf1lsh/playlist.m3u8
+#EXTINF:-1,BT Sport 1
+http://50.97.49.87:1935/apqq22/btsports1lsh58/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://50.97.49.87:1935/apqq22/btsports2lsh/playlist.m3u8
+#EXTINF:-1,BT Sport Europe
+http://50.97.49.87:1935/apqq22/bteulsh/playlist.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://50.97.49.87:1935/apqq22/espnuklsh/playlist.m3u8
+#EXTINF:-1,Premier sports
+http://50.97.49.87:1935/apqq22/vpremsplsh/playlist.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+http://50.97.49.87:1935/apqq22/bein1frlsh58/playlist.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://50.97.49.87:1935/apqq22/bein2frlsh/playlist.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://50.97.49.87:1935/apqq22/bein3frlsh/playlist.m3u8
+#EXTINF:-1,beIN Sport max 4
+http://50.97.49.87:1935/apqq22/max4lsh/playlist.m3u8
+#EXTINF:-1,beIN Sport max 5
+http://50.97.49.87:1935/apqq22/max5lsh/playlist.m3u8
+#EXTINF:-1,ArenaSport 1
+http://50.97.49.87:1935/apqq22/arhd1lsh58/playlist.m3u8
+#EXTINF:-1,ArenaSport 2
+http://50.97.49.87:1935/apqq22/arhd2lsh/playlist.m3u8
+#EXTINF:-1,ArenaSport 3
+http://50.97.49.87:1935/apqq22/arhd3lsh58/playlist.m3u8
+#EXTINF:-1,ArenaSport 4
+http://50.97.49.87:1935/apqq22/arhd4lsh/playlist.m3u8
+#EXTINF:-1,Tenis (Miami3)
+http://50.97.49.87:1935/apqq22/miami3/playlist.m3u8
+#EXTINF:-1,Tenis (Miami1)
+http://50.97.49.87:1935/apqq22/miami1/playlist.m3u8
