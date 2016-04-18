@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[B][COLOR deepskyblue]SportsLogins4You[/COLOR][/B]
+#EXTINF:-1,[B][COLOR deepskyblue]SportsLogins4U[/COLOR][/B]
 http://noleechingplease.com
 #EXTINF:-1,Fox Sports 1 (US)
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
@@ -37,5 +37,5 @@ http://27.254.64.105:1935/mobilelink/cth3.stream/playlist.m3u8?wmsAuthSign=$dore
 http://27.254.64.105:1935/mobilelink/cth4.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]
 #EXTINF:-1,CTH Stadium 5
 http://27.254.64.105:1935/mobilelink/cth5.stream/playlist.m3u8?wmsAuthSign=$doregex[tok]
-#EXTINF:-1,[B][COLOR deepskyblue]SportsLogins4You[/COLOR][/B]
+#EXTINF:-1,[B][COLOR deepskyblue]SportsLogins4U[/COLOR][/B]
 http://noleechingplease.com
