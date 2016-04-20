@@ -4,11 +4,11 @@
 <channels>
 
 <channel>
-<name>[B][COLOR deepskyblue]SportsLogins4u IPTV - List One[/COLOR][/B]</name>
+<name>SportsLogins4u IPTV - List One</name>
 <thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SportsLogins4uIPTV.txt</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/01/fanart-copy-18.jpg</fanart>
-<info>[B][COLOR deepskyblue]SportsLogins4u IPTV - List One[/COLOR][/B]</info>
+<info>SportsLogins4u IPTV - List One</info>
 </channel>
 
 </channels>
