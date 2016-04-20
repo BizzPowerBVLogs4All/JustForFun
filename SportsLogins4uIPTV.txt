@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR lightgreen]SportsLogins4u IPTV Sport Mix Channels...Enjoy[/COLOR]</title>
+<title>[COLOR lightgreen]SportsLogins4u IPTV...Keep It Here...Please!!!...Enjoy[/COLOR]</title>
 <link>http://dummy.tv</link>
 <thumbnail></thumbnail>
 </item>
