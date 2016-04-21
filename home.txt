@@ -1,6 +1,5 @@
 <layouttype>thumbnail</layouttype>
 
-
 <channels>
 
 <channel>
@@ -33,6 +32,14 @@
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/BeinSports1-9.txt</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/01/fanart-copy-18.jpg</fanart>
 <info>SportsLogins4u IPTV - List Bein Sports</info>
+</channel>
+
+<channel>
+<name>SportsLogins4u IPTV - List Adryan Sport</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/AdryanSports.txt</externallink>
+<fanart>https://seo-michael.co.uk/content/images/2016/01/fanart-copy-18.jpg</fanart>
+<info>SportsLogins4u IPTV - List Adryan Sport</info>
 </channel>
 
 
