@@ -1,8 +1,24 @@
-#EXTM3U
 #EXTINF:-1,[COLOR red]###~~~~~These Streams have UNLIMITED CONNECTIONS & Are mostly in HD 720p & 1080p~~~~~###[/COLOR]
 http://
 #EXTINF:-1,[COLOR red]###~~~~~The Best Streams Will Be Back Up For The Footy~~~~~###[/COLOR]
 http://
+#EXTINF:-1,SKY SPORTS 1 HD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/112.m3u8
+#EXTINF:-1,SKY SPORTS 1 HD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/107.m3u8
+#EXTINF:-1,SKY SPORTS 1 SD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/117.m3u8
+
+#EXTINF:-1,Sky Sports 1 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 2 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp2.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 3 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp3.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 4 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp4.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 5 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp5.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
 
 #EXTINF:-1,SKY SPORT 1
 http://s01.iptvsolution.net:80/live?channelId=87&uid=5933&deviceUser=petar&devicePass=petar123
@@ -17,34 +33,6 @@ http://s01.iptvsolution.net:80/live?channelId=91&uid=5933&deviceUser=petar&devic
 #EXTINF:-1,SKY SPORT F1
 http://s01.iptvsolution.net:80/live?channelId=92&uid=5933&deviceUser=petar&devicePass=petar123
 
-#EXTINF:-1,Sky Sport 1
-http://185.59.222.65:8080/Hjdvbnsdnuikmsky1/index.m3u8
-#EXTINF:-1,Sky Sport 2
-http://185.59.222.65:8080/Hjdvbnsdnuikmsky2/index.m3u8
-#EXTINF:-1,Sky Sport 3
-http://185.59.222.65:8080/Hjdvbnsdnuikmsky3/index.m3u8
-#EXTINF:-1,Sky Sport 4
-http://185.59.222.65:8080/Hjdvbnsdnuikmsky4/index.m3u8
-#EXTINF:-1,Sky Sport 5
-http://185.59.222.65:8080/Hjdvbnsdnuikmsky5/index.m3u8
-#EXTINF:-1,Sky Sport 2
-http://185.59.222.65:8080/Hjdvbnsdnuikmsky2/index.m3u8
-
-#EXTINF:-1,Sky Sports 1 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports 2 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp2.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports 3 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp3.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports 4 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp4.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports 5 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp5.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports F1 HD
-http://iptvsatuk.ddns.net:8080/live/f1/f1/84.m3u8
-#EXTINF:-1,Sky Sports F1 SD
-http://iptvsatuk.ddns.net:8080/live/f1/f1/116.m3u8
-
 #EXTINF:-1,Sky Sports 1 SD
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
 #EXTINF:-1,Sky Sports 2 SD
@@ -52,79 +40,60 @@ rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
 #EXTINF:-1,Sky Sports 3 SD
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
 
-#EXTINF:-1,BT Sport 1 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/123.m3u8
-#EXTINF:-1,BT Sport 1 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/28.m3u8
-#EXTINF:-1,BT Sport 2 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/29.m3u8
-#EXTINF:-1,BT Sport 2 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/124.m3u8
 #EXTINF:-1,BT Sport 1 SD
 http://s01.iptvsolution.net:80/live?channelId=100&uid=5933&deviceUser=petar&devicePass=petar123
 #EXTINF:-1,BT Sport 2 SD
 http://s01.iptvsolution.net:80/live?channelId=101&uid=5933&deviceUser=petar&devicePass=petar123
-#EXTINF:-1,BT Sport Euro HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/125.m3u8
-#EXTINF:-1,BT Sport Euro HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/86.m3u8
-#EXTINF:-1,BT Sport Euro HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/153.m3u8
-#EXTINF:-1,BT Sport Euro HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/105.m3u8
+#EXTINF:-1,BT Sport Europe SD
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x
 
 #EXTINF:-1,Fox Sports 1 HD
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8
 #EXTINF:-1,Fox Sports 1 SD
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://37.187.164.175:8080/abc418/skypeglobalsportsIPTV/92.ch
-#EXTINF:-1,Fox Sports 2 HD
-http://37.187.164.175:8080/abc418/skypeglobalsportsIPTV/312.ch
 
-#EXTINF:-1,NBCSN Sports Network
+#EXTINF:-1,NBCSN HD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/147.m3u8
+#EXTINF:-1,NBCSN SPORTS NETWORK
 http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/73.m3u8
-#EXTINF:-1,NBCSN Sports Network
-http://37.187.164.175:8080/abc418/skypeglobalsportsIPTV/270.ch
-
-#EXTINF:-1,SportsNet One
-http://37.187.164.175:8080/abc418/skypeglobalsportsIPTV/187.ch
-#EXTINF:-1,SportsNet Ontario
-http://37.187.164.175:8080/abc418/skypeglobalsportsIPTV/186.ch
-#EXTINF:-1,SportsNet 360 HD
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1,NBCSN MATCH TIME LIVE 7 HD (LIVE DURING EPL)
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/55.m3u8
+#EXTINF:-1,NBCSN MATCH TIME LIVE 6 HD (LIVE DURING EPL)
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/54.m3u8
+#EXTINF:-1,NBCSN MATCH TIME LIVE 5 HD (LIVE DURING EPL)
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/53.m3u8
+#EXTINF:-1,NBCSN MATCH TIME LIVE 4 HD (LIVE DURING EPL)
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/52.m3u8
+#EXTINF:-1,NBCSN MATCH TIME LIVE 3 HD (LIVE DURING EPL)
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/51.m3u8
+#EXTINF:-1,NBCSN MATCH TIME LIVE 2 HD (LIVE DURING EPL)
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/50.m3u8
+#EXTINF:-1,NBCSN MATCH TIME LIVE 1 HD (LIVE DURING EPL)
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/134.m3u8
+#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 1 HD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/68.m3u8
+#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 2 HD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/69.m3u8
+#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 3 HD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/70.m3u8
+#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 4 HD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/71.m3u8
+#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 5 HD
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/72.m3u8
+#EXTINF:-1,SportsNet West
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/3.m3u8
+#EXTINF:-1,SportsNet 360
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/2.m3u8
+#EXTINF:-1,SportsNet 1
+http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/100.m3u8
 #EXTINF:-1,SportsNet World
 http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/4.m3u8
+#EXTINF:-1,SportsNet 360 HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
-#EXTINF:-1,C.T.H STADIUM X HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/141.m3u8
-#EXTINF:-1,C.T.H STADIUM 6 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/140.m3u8
-#EXTINF:-1,C.T.H STADIUM 5 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/139.m3u8
-#EXTINF:-1,C.T.H STADIUM 4 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/138.m3u8
-#EXTINF:-1,C.T.H STADIUM 3 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/137.m3u8
-#EXTINF:-1,C.T.H STADIUM 2 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/136.m3u8
-#EXTINF:-1,C.T.H STADIUM 1 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/135.m3u8
-#EXTINF:-1,3PM EPL: ASTRO SUPER SPORTS 4 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/151.m3u8
-#EXTINF:-1,3PM EPL: ASTRO SUPER SPORTS 3 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/150.m3u8
-#EXTINF:-1,3PM EPL: ASTRO SUPER SPORTS 2 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/149.m3u8
-#EXTINF:-1,3PM EPL: ASTRO SUPER SPORTS 1 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/148.m3u8
-
-#EXTINF:-1,TSN 1
-http://37.187.164.175:8080/abc418/skypeglobalsportsIPTV/286.ch
-#EXTINF:-1,TSN 2
-http://37.187.164.175:8080/abc418/skypeglobalsportsIPTV/287.ch
-
-#EXTINF:-1,[COLOR red]###~~~Streams below this line Only Work On KODI~~~###[/COLOR]
+#EXTINF:-1,[COLOR red]###~~~Streams below this line ARE NOT 24/7 & Only Work On KODI~~~###[/COLOR]
+http://
+#EXTINF:-1,[COLOR red]###~~~Streams usually go off about midnight GMT~~~###[/COLOR]
 http://
 #EXTINF:-1,Disney Movie Channel
 http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/154.m3u8|User-agent=monkey
