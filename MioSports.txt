@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title>Mio Sport 102</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/We/We/12286.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch111.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mio Sport 103</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/We/We/12285.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch111.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mio Sport 104</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/We/We/12284.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch111.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mio Sport 105</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/We/We/12283.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch111.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mio Sport 106</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/We/We/12282.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch111.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mio Sport 107</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/We/We/12281.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch111.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mio Sport 108</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/We/We/12280.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.singteltv.com.sg/_channels/pic_ch111.jpg</thumbnail>
+</item>
