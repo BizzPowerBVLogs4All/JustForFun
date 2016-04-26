@@ -1,10 +1,19 @@
 <channels>
+
 <channel>
 <name>SportsLogins4u IPTV - List Snif Snaf One</name>
 <thumbnail>http://www.dogchannel.com/images/why-dogs/bottom-sniffing.jpg</thumbnail>
 <fanart>http://images0.tcdn.nl/binnenland/article23382578.ece/BINARY/u/Snuf___Snuitje.png</fanart>
 <link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf1.txt</link>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf1.txt</externallink>
+</channel>
+
+<channel>
+<name>SportsLogins4u IPTV - List Snif Snaf Two</name>
+<thumbnail>http://www.dogchannel.com/images/why-dogs/bottom-sniffing.jpg</thumbnail>
+<fanart>http://images0.tcdn.nl/binnenland/article23382578.ece/BINARY/u/Snuf___Snuitje.png</fanart>
+<link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf2.txt</link>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf2.txt</externallink>
 </channel>
 
 </channels>
