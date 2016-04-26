@@ -1,0 +1,21 @@
+<channels>
+<channel>
+<name>ZRF - Sport Center HD - Daily Sports</name>
+<thumbnail>http://2.bp.blogspot.com/_SmEgfml-44k/TIaPcaNk7yI/AAAAAAAAAWA/UTjBdPtZ9xU/s320/Zee_Sports+logo.png</thumbnail>
+<fanart>http://www.newhdwallpapers.in/wp-content/uploads/2014/06/Cristiano-Ronaldo-Soccer-Nike-HD-Wallpaper.jpg</fanart>
+<link></link>
+<externallink>http://pastebin.com/raw/aWzSjBpY</externallink>
+</channel>
+
+</channels>
+
+<channels>
+<channel>
+<name>Dutch IPTV</name>
+<thumbnail>http://2.bp.blogspot.com/_SmEgfml-44k/TIaPcaNk7yI/AAAAAAAAAWA/UTjBdPtZ9xU/s320/Zee_Sports+logo.png</thumbnail>
+<fanart>http://admin-c31.mediafoundry.com.au/sites/default/files/DUTCH%20TV.jpg</fanart>
+<link></link>
+<externallink>http://pastebin.com/raw/3ZxE3fy7</externallink>
+</channel>
+
+</channels>
