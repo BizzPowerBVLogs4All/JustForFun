@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title>[COLOR darkorange]Eventually More Channels Will Be Added[/COLOR]</title>
+<link>http://dummy.com</link>
+<thumbnail>http://ksabolition.org/wp-content/uploads/2014/07/staytuned.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]At The Races[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/attheraces/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=At%20The%20Races</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightblue]Bike[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/btespn/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=Bike</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]BT Espn[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/bike/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=BT%20ESPN</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]BT Sport 2[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/btsports2/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=BT%20Sports%202</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]Motors TV UK[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/motorstvuk/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=Motors%20TV%20UK</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]Sky Sports 1[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/skysports1/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=Sky%20Sports%201</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]Sky Sports 2[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/skysports2/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=Sky%20Sports%202</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]Sky Sports 3[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/skysports3/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=Sky%20Sports%203</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]Sky Sports 4[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/skysports4/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=Sky%20Sports%204</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]Sky Sports 5[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/skysports5/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=Sky%20Sports%205</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>
+
+<item>
+<title>[COLOR lightblue]Sky Sports F1[/COLOR]</title>
+<link>http://stream.sasta.xyz:1935/tv/skysportsf1/playlist.m3u8?wmsAuthSign=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>wmsAuthSign=(.*)</expres>
+<page>https://sastatv.com/demo/index.php?name=Sky%20Sports%20F1</page>
+<referer>https://sastatv.com</referer>
+</regex>
+<thumbnail>https://sastatv.com/website/img/SastaTVIcon.png</thumbnail>

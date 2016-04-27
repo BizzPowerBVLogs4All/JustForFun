@@ -35,6 +35,14 @@
 </channel>
 
 <channel>
+<name>SportsLogins4u IPTV - List Three</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/ForkList2.txt</externallink>
+<fanart>https://seo-michael.co.uk/content/images/2016/01/fanart-copy-18.jpg</fanart>
+<info>SportsLogins4u IPTV - List Three</info>
+</channel>
+
+<channel>
 <name>SportsLogins4u IPTV - List docs4you.org</name>
 <thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/docs4you.txt</externallink>
