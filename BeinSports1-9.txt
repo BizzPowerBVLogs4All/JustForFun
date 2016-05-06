@@ -1,248 +1,73 @@
-<item>
- <title>Bein Sport 1</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports1.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
- <title>Bein Sport 2</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports2.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
-
-
+<title>[B][I] Bein Sport 1[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/582.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
 
 <item>
- <title>Bein Sport 3</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports3.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
-
-
+<title>[B][I] Bein Sport 2[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/583.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
 
 <item>
- <title>Bein Sport 4</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports4.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
-
-
+<title>[B][I] Bein Sport 3[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/584.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
 
 <item>
- <title>Bein Sport 5</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports5.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
-
-
+<title>[B][I] Bein Sport 4[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/585.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
 
 <item>
- <title>Bein Sport 6</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports6.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports6.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
-
-
+<title>[B][I] Bein Sport 5[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/586.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
 
 <item>
- <title>Bein Sport 7</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
-
-
+<title>[B][I] Bein Sport 6[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/587.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
 
 <item>
- <title>Bein Sport 8</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports8.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports8.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
-
-
+<title>[B][I] Bein Sport 7[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/588.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
 
 <item>
- <title>Bein Sport 9</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports9.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/beinsports9.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<thumbnail>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</thumbnail>
-<fanart>http://funny-pictures.ws/wp-content/uploads/2015/10/BeinSport.jpg</fanart>
-  </item>
+<title>[B][I] Bein Sport 8[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/589.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I] Bein Sport 9[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/590.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I] Bein Sport 10[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/591.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I] Bein Sport 11[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/592.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I] Bein Sport 12[/I][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://arabic1.mickypizza1.com:80/live/stalker12/stalker12/593.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>
+</item>
