@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Info Source...Xtreams-Codes IPTV[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2011/27/active-logo-1310050453.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][I][COLOR cornflowerblue]Status,Active/Expires,Never/Trial Account,No/Max.Connections,100[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2011/27/active-logo-1310050453.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/687.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/688.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/689.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/690.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/691.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/692.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1 HD (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/295.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2 HD (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/296.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 3 HD (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/297.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 4 HD (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/298.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 5 HD (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/299.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/300.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/512.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/221.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/222.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sport Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/511.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT Sport ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/306.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Setanta Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/305.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Premium Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/304.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Sci-fi and Horror</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/535.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Crime and Thriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/531.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/536.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Action and Adventure</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/538.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/534.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Thriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/533.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/532.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/336.ts
+&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://joefavorito.com/wp-content/uploads/2014/12/maxresdefault-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=
+http://iptvx.starynos.com:8000/live/backup/backup/346.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.vizrt.com/incoming/42722/FOX-Sports-South-Anchor-Desk.jpg/alternates/w940up/FOX-Sports-South-Anchor-Desk.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/280.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/281.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/282.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/283.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/284.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/287.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/288.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/289.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/290.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/291.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 11 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/292.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 12 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/293.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+</item>
