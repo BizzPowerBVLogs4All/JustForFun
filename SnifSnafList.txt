@@ -32,4 +32,12 @@
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf4.txt</externallink>
 </channel>
 
+<channel>
+<name>SportsLogins4u IPTV - Box Nation Channels</name>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/BOX%20Nation%20UK.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/1280px-BoxNation_logo.jpg</fanart>
+<link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf5.txt</link>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf5.txt</externallink>
+</channel>
+
 </channels>
