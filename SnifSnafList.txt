@@ -40,4 +40,12 @@
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf5.txt</externallink>
 </channel>
 
+<channel>
+<name>SportsLogins4u IPTV - EPL Matchday Games</name>
+<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
+<fanart>http://e0.365dm.com/15/07/768x432/premier-league-moments-lampard-rooney-aguero_3326259.jpg?20150717114951</fanart>
+<link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf6.txt</link>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf6.txt</externallink>
+</channel>
+
 </channels>
