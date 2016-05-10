@@ -17,14 +17,6 @@
 </channel>
 
 <channel>
-<name>SportsLogins4u IPTV - Sasta IPTV</name>
-<thumbnail>http://www.dogchannel.com/images/why-dogs/bottom-sniffing.jpg</thumbnail>
-<fanart>http://images0.tcdn.nl/binnenland/article23382578.ece/BINARY/u/Snuf___Snuitje.png</fanart>
-<link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf3.txt</link>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf3.txt</externallink>
-</channel>
-
-<channel>
 <name>SportsLogins4u IPTV - Try Outs - Xstream Codes IPTV (1)</name>
 <thumbnail>http://www.dogchannel.com/images/why-dogs/bottom-sniffing.jpg</thumbnail>
 <fanart>http://images0.tcdn.nl/binnenland/article23382578.ece/BINARY/u/Snuf___Snuitje.png</fanart>
@@ -38,30 +30,6 @@
 <fanart>http://images0.tcdn.nl/binnenland/article23382578.ece/BINARY/u/Snuf___Snuitje.png</fanart>
 <link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf7.txt</link>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf7.txt</externallink>
-</channel>
-
-<channel>
-<name>SportsLogins4u IPTV - Box Nation Channels</name>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/BOX%20Nation%20UK.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/1280px-BoxNation_logo.jpg</fanart>
-<link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf5.txt</link>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf5.txt</externallink>
-</channel>
-
-<channel>
-<name>SportsLogins4u IPTV -PPV- Boxing Tonight</name>
-<thumbnail>http://animalrightscoalition.com/wp-content/uploads/2012/05/PPV-Logo-Final.png</thumbnail>
-<fanart>https://seo-michael.co.uk/content/images/2016/01/fanart-copy-18.jpg</fanart>
-<link>http://pastebin.com/raw.php?i=c4UpeBWc</link>
-<externallink>http://pastebin.com/raw.php?i=c4UpeBWc</externallink>
-</channel>
-
-<channel>
-<name>SportsLogins4u IPTV - EPL Matchday Games</name>
-<thumbnail>http://files.pes-unlimited.webnode.pt/system_preview_detail_200000006-31d9732d3b-public/Barclays%20Premier%20League.png</thumbnail>
-<fanart>http://e0.365dm.com/15/07/768x432/premier-league-moments-lampard-rooney-aguero_3326259.jpg?20150717114951</fanart>
-<link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf6.txt</link>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnifSnaf6.txt</externallink>
 </channel>
 
 </channels>

@@ -1,733 +1,593 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]###~~~~~[B]Updated 28/04/2016...[/B]These Streams have UNLIMITED CONNECTIONS & Are mostly in HD 720p & 1080p~~~~~###[/COLOR]
+#EXTINF:-1,[COLOR red]UPDATE 10th MAY -  Dead Streams Removed - PLEASE REPORT DEAD STREAMS ON OUR FACEBOOK PAGE - http://tinyurl.com/z7vto88[/COLOR]
 http://
-#EXTINF:-1,[COLOR red]###~~~~~The Best Streams Will Be Back Up For The Footy~~~~~###[/COLOR]
+#EXTINF:-1,[COLOR blue]Disclaimer - All Streams On This List Are Freely Available Around the Internet - I Just Collect Them& Put On Here[/COLOR]
 http://
-#EXTINF:-1,SKY SPORTS 1 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/112.m3u8
-#EXTINF:-1,SKY SPORTS 1 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/107.m3u8
-#EXTINF:-1,SKY SPORTS 1 SD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/117.m3u8
 
-#EXTINF:-1,Sky Sports 1 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports 2 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp2.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports 3 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp3.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports 4 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp4.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
-#EXTINF:-1,Sky Sports 5 HD
-http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp5.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 1 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/112.m3u8
+#EXTINF:-1,Sky Sports 2 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/113.m3u8
+#EXTINF:-1,Sky Sports 3 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/109.m3u8
+#EXTINF:-1,Sky Sports 4 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/114.m3u8
+#EXTINF:-1,Sky Sports 5 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/115.m3u8
 
-#EXTINF:-1,SKY SPORT 1
-http://s01.iptvsolution.net:80/live?channelId=87&uid=5933&deviceUser=petar&devicePass=petar123
-#EXTINF:-1,SKY SPORT 2
-http://s01.iptvsolution.net:80/live?channelId=88&uid=5933&deviceUser=petar&devicePass=petar123
-#EXTINF:-1,SKY SPORT 3
-http://s01.iptvsolution.net:80/live?channelId=89&uid=5933&deviceUser=petar&devicePass=petar123
-#EXTINF:-1,SKY SPORT 4
-http://s01.iptvsolution.net:80/live?channelId=90&uid=5933&deviceUser=petar&devicePass=petar123
-#EXTINF:-1,SKY SPORT 5
-http://s01.iptvsolution.net:80/live?channelId=91&uid=5933&deviceUser=petar&devicePass=petar123
-#EXTINF:-1,SKY SPORT F1
-http://s01.iptvsolution.net:80/live?channelId=92&uid=5933&deviceUser=petar&devicePass=petar123
+#EXTINF:-1,Sky Sports 1 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/107.m3u8
+#EXTINF:-1,Sky Sports 2 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/108.m3u8
+#EXTINF:-1,Sky Sports 3 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/17.m3u8
+#EXTINF:-1,Sky Sports 4 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/110.m3u8
+#EXTINF:-1,Sky Sports 5 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/111.m3u8
 
-#EXTINF:-1,Sky Sports 1 SD
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
-#EXTINF:-1,Sky Sports 2 SD
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
-#EXTINF:-1,Sky Sports 3 SD
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
+#EXTINF:-1,Sky Sports 2 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/5.m3u8
+#EXTINF:-1,Sky Sports 3 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/6.m3u8
+#EXTINF:-1,Sky Sports 4 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/7.m3u8
+#EXTINF:-1,Sky Sports 5 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/8.m3u8
+
+#EXTINF:-1,Sky Sports 1 SD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/117.m3u8
+#EXTINF:-1,Sky Sports 2 SD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/118.m3u8
+#EXTINF:-1,Sky Sports 3 SD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/119.m3u8
+#EXTINF:-1,Sky Sports 4 SD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/120.m3u8
+
+#EXTINF:-1,Sky Sports 1
+http://bestiptv.dyndns.tv:80/live?channelId=84&uid=37&deviceUser=dina&devicePass=dina
+#EXTINF:-1,Sky Sports 2
+http://bestiptv.dyndns.tv:80/live?channelId=85&uid=37&deviceUser=dina&devicePass=dina
+#EXTINF:-1,Sky Sports 3
+http://bestiptv.dyndns.tv:80/live?channelId=86&uid=37&deviceUser=dina&devicePass=dina
+#EXTINF:-1,Sky Sports 4
+http://bestiptv.dyndns.tv:80/live?channelId=87&uid=37&deviceUser=dina&devicePass=dina
+#EXTINF:-1,Sky Sports 5 
+http://bestiptv.dyndns.tv:80/live?channelId=88&uid=37&deviceUser=dina&devicePass=dina
+
+#EXTINF:0,Sky Sports 1
+http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
+#EXTINF:0,Sky Sports 2
+http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
+#EXTINF:0,Sky Sports 3
+http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8
+#EXTINF:0,Sky Sports 4
+http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
+#EXTINF:0,Sky Sports 5
+http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8
+
+#EXTINF:-1,Sky Sports 1
+http://tinyurl.com/Docs4you-org-ss1
+#EXTINF:-1,Sky Sports 2
+http://tinyurl.com/Docs4you-org-ss2
+#EXTINF:-1,Sky Sports 3
+http://tinyurl.com/Docs4you-org-ss3
+#EXTINF:-1,Sky Sports 4
+http://tinyurl.com/Docs4you-org-ss4
+#EXTINF:-1,Sky Sports 5
+http://tinyurl.com/Docs4you-org-ss5
+#EXTINF:-1,Sky Sports F1
+http://tinyurl.com/Docs4you-org-ssf1
+#EXTINF:-1,Sky Sports News HD
+http://tinyurl.com/Docs4you-org-ssnews
+
+#EXTINF:-1,Sky Sports 1-2-3-4-5 (Stream Switches Channels)
+http://tinyurl.com/Sky-Sports-1-By-Docs4you
+#EXTINF:-1,Sky Sports HD – Bein Sports HD – BT Sports HD (Stream Switches Channels)
+http://92.222.205.40:8085/lighd
+
+#EXTINF:0,BT Sport 1
+http://51.255.81.190:8080/UK-BT-Sport-1/mono.m3u8
+#EXTINF:0,BT Sport 2
+http://51.255.81.190:8080/UK-BT-Sport-2/mono.m3u8
+
+#EXTINF:-1,BT Sport 1 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/123.m3u8
+#EXTINF:-1,BT Sport 1 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/28.m3u8
+#EXTINF:-1,BT Sport 2 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/29.m3u8
+#EXTINF:-1,BT Sport 2 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/124.m3u8
+
+#EXTINF:-1,BT Sport 1
+http://bestiptv.dyndns.tv:80/live?channelId=94&uid=37&deviceUser=dina&devicePass=dina
+#EXTINF:-1,BT Sport 2
+http://bestiptv.dyndns.tv:80/live?channelId=95&uid=37&deviceUser=dina&devicePass=dina
 
 #EXTINF:-1,BT Sport 1 SD
-http://s01.iptvsolution.net:80/live?channelId=100&uid=5933&deviceUser=petar&devicePass=petar123
+http://tinyurl.com/Docs4you-BTS1
 #EXTINF:-1,BT Sport 2 SD
-http://s01.iptvsolution.net:80/live?channelId=101&uid=5933&deviceUser=petar&devicePass=petar123
-#EXTINF:-1,BT Sport Europe SD
-rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtvbteu_5msgj44x
+http://tinyurl.com/Docs4you-BTS2
 
-#EXTINF:-1,Fox Sports 1 HD
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8
-#EXTINF:-1,Fox Sports 1 SD
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8
+#EXTINF:-1,BT Sport Europe HD
+http://tinyurl.com/Docs4you-BTEUR
+#EXTINF:-1,BT Sport Europe HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/153.m3u8
+#EXTINF:-1,BT Sport Europe HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/125.m3u8
+#EXTINF:-1,BT Sport Europe HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/86.m3u8
 
-#EXTINF:-1,NBCSN HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/147.m3u8
-#EXTINF:-1,NBCSN SPORTS NETWORK
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/73.m3u8
-#EXTINF:-1,NBCSN MATCH TIME LIVE 7 HD (LIVE DURING EPL)
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/55.m3u8
-#EXTINF:-1,NBCSN MATCH TIME LIVE 6 HD (LIVE DURING EPL)
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/54.m3u8
-#EXTINF:-1,NBCSN MATCH TIME LIVE 5 HD (LIVE DURING EPL)
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/53.m3u8
-#EXTINF:-1,NBCSN MATCH TIME LIVE 4 HD (LIVE DURING EPL)
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/52.m3u8
-#EXTINF:-1,NBCSN MATCH TIME LIVE 3 HD (LIVE DURING EPL)
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/51.m3u8
-#EXTINF:-1,NBCSN MATCH TIME LIVE 2 HD (LIVE DURING EPL)
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/50.m3u8
-#EXTINF:-1,NBCSN MATCH TIME LIVE 1 HD (LIVE DURING EPL)
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/134.m3u8
-#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 1 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/68.m3u8
-#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 2 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/69.m3u8
-#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 3 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/70.m3u8
-#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 4 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/71.m3u8
-#EXTINF:-1,3PM EPL: NBC LIVE SPORTS EXTRA 5 HD
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/72.m3u8
-#EXTINF:-1,SportsNet West
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/3.m3u8
-#EXTINF:-1,SportsNet 360
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/2.m3u8
-#EXTINF:-1,SportsNet 1
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/100.m3u8
-#EXTINF:-1,SportsNet World
-http://iptvsatuk.ddns.net:8080/live/LEECHERS_ARE_FUCKING_CUNTS/WHO_LIKE_TO_FUCK_MIDGETS_IN_THE_ASS/4.m3u8
-#EXTINF:-1,SportsNet 360 HD
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-
-#EXTINF:-1,[COLOR red]###~~~Streams below this line ARE NOT 24/7 & Only Work On KODI~~~###[/COLOR]
-http://
-#EXTINF:-1,[COLOR red]###~~~Streams usually go off about midnight GMT~~~###[/COLOR]
-http://
-#EXTINF:-1,Disney Movie Channel
-http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/154.m3u8|User-agent=monkey
-#EXTINF:-1,BT Sport ESPN
+#EXTINF:-1,BT Sport ESPN HD
+http://tinyurl.com/Docs4you-btespn
+#EXTINF:-1,BT Sport ESPN SD
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/47.m3u8|User-agent=monkey
-#EXTINF:-1,Bein Sports USA
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/26.m3u8|User-agent=monkey
-#EXTINF:-1,SportsNet World
+#EXTINF:-1,BT Sport ESPN SD
+http://195.154.207.145:8000/play/ukespn
+
+#EXTINF:-1,Setanta Sports Ireland*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/131.m3u8
+#EXTINF:-1,Premier Sport
+http://tinyurl.com/Docs4you-premspo
+
+
+#EXTINF:-1,Fox Sports 1 HD USA
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8
+#EXTINF:-1,Fox Sports 1 HD USA
+http://tinyurl.com/Fox-Sports-1-By-Docs4you
+#EXTINF:-1,Fox Sports 1 SD USA
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8
+#EXTINF:1,Fox Deportes
+rtmp://videos.visionlatina.tv/LiveATV//caco2
+
+#EXTINF:-1,NBCSN Sports Network HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/73.m3u8
+#EXTINF:-1,NBCSN Sports Network HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/147.m3u8
+#EXTINF:-1,NBCSN Match Time 1 HD (Shows Other Channels To)*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/134.m3u8
+#EXTINF:-1,NBCSN Match Time 2 HD (Shows Other Channels To)*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/50.m3u8
+#EXTINF:-1,NBCSN Match Time 3 HD (Shows Other Channels To)*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/51.m3u8
+#EXTINF:-1,NBCSN Match Time 4 HD (Shows Other Channels To)*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/52.m3u8
+#EXTINF:-1,NBCSN Match Time 5 HD (Shows Other Channels To)*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/53.m3u8
+#EXTINF:-1,NBCSN Match Time 6 HD (Shows Other Channels To)*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/54.m3u8
+#EXTINF:-1,NBCSN Match Time 7 HD (Shows Other Channels To)*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/55.m3u8
+#EXTINF:-1,NBC Live Sports Extra 1 HD* (USA Network)
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/68.m3u8
+#EXTINF:-1,NBC Live Sports Extra 2 HD* (Syfy USA)
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/69.m3u8
+#EXTINF:-1,NBC Live Sports Extra 3 HD* (Spike)
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/70.m3u8
+#EXTINF:-1,NBC Live Sports Extra 4 HD* (SportsNet One)
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/71.m3u8
+#EXTINF:-1,NBC Live Sports Extra 5 HD* (CBS Sports)
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/72.m3u8
+
+#EXTINF:-1,SportsNet West HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/3.m3u8
+#EXTINF:-1,SportsNet 360 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/2.m3u8
+#EXTINF:-1,SportsNet One HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/100.m3u8
+#EXTINF:-1,SportsNet World HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/4.m3u8
+#EXTINF:-1,SportsNet World LQ
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/243.m3u8|User-agent=monkey
-#EXTINF:-1,SportsNet Onterio
+#EXTINF:-1,SportsNet Onterio LQ
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/245.m3u8|User-agent=monkey
-#EXTINF:-1,SportsNet One
+#EXTINF:-1,SportsNet One LQ
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/244.m3u8|User-agent=monkey
-#EXTINF:-1,Star Sports2
+#EXTINF:-1,SportsNet One LQ
+rtmp://185.63.255.18:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+#EXTINF:-1,SportsNet World HD (might not work on kodi) USE MXPLAYLER & IPTV LOADER
+http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.m3u8
+#EXTINF:-1,SportsNet Ontario HD (might not work on kodi)
+http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_ontario/as/live/sn_ontario_hd_3000.m3u8
+#EXTINF:-1,SportsNet One HD (might not work on kodi)
+http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.m3u8
+#EXTINF:-1,SportsNet 360 HD (might not work on kodi)
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000.m3u8
+#EXTINF:-1,SportsNet Pacific HD (might not work on kodi)
+http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_3000.m3u8
+#EXTINF:-1,SportsNet East HD (might not work on kodi)
+http://nlds186.cdnak.neulion.com/nlds/sportsnetnow/sn_east/as/live/sn_east_hd_3000.m3u8
+#EXTINF:-1,SportsNet West HD (might not work on kodi)
+http://nlds189.cdnak.neulion.com/nlds/sportsnetnow/sn_west/as/live/sn_west_hd_3000.m3u8
+
+#EXTINF:-1,Astro Supersports 1 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/148.m3u8
+#EXTINF:-1,Astro Supersports 2 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/149.m3u8
+#EXTINF:-1,Astro Supersports 3 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/150.m3u8
+#EXTINF:-1,Astro Supersports 4 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/151.m3u8
+
+#EXTINF:-1,CTH STADIUM 1 HD
+http://149.202.207.8:8080/cth1/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 2 HD
+http://149.202.207.8:8080/cth2/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 3 HD
+http://149.202.207.8:8080/cth3/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 4 HD
+http://149.202.207.8:8080/cth4/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 5 HD
+http://149.202.207.8:8080/cth5/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 6 HD
+http://149.202.207.8:8080/cth6/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM X HD
+http://149.202.207.8:8080/cthx/sallu/index.m3u8
+#EXTINF:-1,CTH Stadium 1 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/135.m3u8
+#EXTINF:-1,CTH Stadium 2 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/136.m3u8
+#EXTINF:-1,CTH Stadium 3 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/137.m3u8
+#EXTINF:-1,CTH Stadium 4 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/138.m3u8
+#EXTINF:-1,CTH Stadium 5 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/139.m3u8
+#EXTINF:-1,CTH Stadium 6 HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/140.m3u8
+#EXTINF:-1,CTH Stadium X HD*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/141.m3u8
+
+#EXTINF:-1,TSN 1*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/63.m3u8
+#EXTINF:-1,TSN 1*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/142.m3u8
+#EXTINF:-1,TSN 2*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/143.m3u8
+#EXTINF:-1,TSN 3*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/65.m3u8
+#EXTINF:-1,TSN 3*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/144.m3u8
+#EXTINF:-1,TSN 4*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/145.m3u8
+#EXTINF:-1,TSN 5*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/67.m3u8
+#EXTINF:-1,TSN 5*
+http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/146.m3u8
+
+#EXTINF:-1,TSN Sports 1 SD
+rtmp://31.220.2.148:1935/live/_definst_/ts1
+
+#EXTINF:-1,Star Sports 2 SD
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/150.m3u8|User-agent=monkey
-#EXTINF:-1,Star Sports4
+#EXTINF:-1,Star Sports 4 SD
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/149.m3u8|User-agent=monkey
+
 #EXTINF:-1,Eurosport 1
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/50.m3u8|User-agent=monkey
 #EXTINF:-1,Eurosport 2
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/51.m3u8|User-agent=monkey
-#EXTINF:-1,ESPN 1 USA
+#EXTINF:-1,ESPN 1 USA HD
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/48.m3u8|User-agent=monkey
-#EXTINF:-1,ESPN 2 USA
+#EXTINF:-1,ESPN 2 USA HD
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/49.m3u8|User-agent=monkey
-#EXTINF:-1,TSN Sports 1 LQ
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/253.m3u8|User-agent=monkey
-#EXTINF:-1,TSN Sports 2 LQ
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/254.m3u8|User-agent=monkey
-#EXTINF:-1,TSN Sports 1 SD
-rtmp://31.220.2.148:1935/live/_definst_/ts1
-#EXTINF:-1,WWE Network HD
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/146.m3u8|User-agent=monkey
 
-#EXTINF:-1,Sky Sport 1 HD Italy
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/92.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Sport 2 HD Italy
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/93.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Sport 3 HD Italy
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/10.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Sport 24 HD Italy
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/11.m3u8|User-agent=monkey
+#EXTINF:-1,Bein Sports USA
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/26.m3u8|User-agent=monkey
+#EXTINF:-1,Bein Sport 1
+http://crotv.dyndns.biz:8088/live?channelId=682&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 2
+http://crotv.dyndns.biz:8088/live?channelId=683&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 3
+http://crotv.dyndns.biz:8088/live?channelId=684&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 3
+http://dzandecembar1.dyndns.org:8088/live?channelId=556&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 4
+http://crotv.dyndns.biz:8088/live?channelId=685&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 5
+http://crotv.dyndns.biz:8088/live?channelId=686&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 6
+http://crotv.dyndns.biz:8088/live?channelId=687&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 7
+http://crotv.dyndns.biz:8088/live?channelId=688&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 8
+http://crotv.dyndns.biz:8088/live?channelId=689&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 9
+http://crotv.dyndns.biz:8088/live?channelId=690&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 10
+http://crotv.dyndns.biz:8088/live?channelId=691&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 11
+http://crotv.dyndns.biz:8088/live?channelId=692&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 12
+http://crotv.dyndns.biz:8088/live?channelId=693&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 13
+http://crotv.dyndns.biz:8088/live?channelId=694&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 14
+http://crotv.dyndns.biz:8088/live?channelId=695&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 15
+http://crotv.dyndns.biz:8088/live?channelId=696&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 16
+http://crotv.dyndns.biz:8088/live?channelId=697&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport 11 HD
+http://195.154.207.145:8000/play/beinshd11
+#EXTINF:-1,Bein Sport 12 HD
+http://195.154.207.145:8000/play/beinshd12
 
+#EXTINF:-1,Bein Sport 1
+http://tinyurl.com/hnmkebz
+#EXTINF:-1,Bein Sport 2
+http://tinyurl.com/jfnpbq6
+#EXTINF:-1,Bein Sport 3
+http://tinyurl.com/heh7gg6
+#EXTINF:-1,Bein Sport 4
+http://tinyurl.com/zqoo8eb
+#EXTINF:-1,Bein Sport 5
+http://tinyurl.com/gq36tqj
+#EXTINF:-1,Bein Sport 6
+http://tinyurl.com/jkenln5
+#EXTINF:-1,Bein Sport 7
+http://tinyurl.com/htl7unu
+#EXTINF:-1,Bein Sport 8
+http://tinyurl.com/z732dqo
+#EXTINF:-1,Bein Sport 9
+http://tinyurl.com/jtk3jzh
+#EXTINF:-1,Bein Sport 10
+http://tinyurl.com/gmrb5ft
+#EXTINF:-1,Bein Sport 11
+http://tinyurl.com/Docs4you-BS11
+#EXTINF:-1,Bein Sport 12
+http://tinyurl.com/Docs4you-BS12
+
+#EXTINF:0,Bein Sport 1 HD
+http://149.202.198.114:8000/play/beins1hd
+#EXTINF:0,Bein Sport 2 HD
+http://149.202.198.114:8000/play/beins2hd
+#EXTINF:0,Bein Sport 3 HD
+http://149.202.198.114:8000/play/beinshd3
+#EXTINF:0,Bein Sport 4 HD
+http://149.202.198.114:8000/play/beinshd4
+#EXTINF:0,Bein Sport 5 HD
+http://149.202.198.114:8000/play/beinshd5
+#EXTINF:0,Bein Sport 6 HD
+http://149.202.198.114:8000/play/beinshd6
+#EXTINF:0,Bein Sport 7 HD
+http://149.202.198.114:8000/play/beinshd7
+#EXTINF:0,Bein Sport 8 HD
+http://149.202.198.114:8000/play/beinshd8
+#EXTINF:0,Bein Sport 9 HD
+http://149.202.198.114:8000/play/beinshd9
+#EXTINF:0,Bein Sport 10 HD
+http://149.202.198.114:8000/play/beinshd10
+#EXTINF:0,Bein Sport 11 HD
+http://149.202.198.114:8000/play/beinshd11
+#EXTINF:0,Bein Sport 12 HD
+http://149.202.198.114:8000/play/beinshd12
+#EXTINF:0,Bein Sport 13 HD
+http://149.202.198.114:8000/play/beins13hd
+#EXTINF:-1,Bein Sport 1 HD French
+http://s01.mtvi.info:80/live?channelId=103&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Bein Sport 2 HD French
+http://s01.mtvi.info:80/live?channelId=104&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Bein Sport 3 HD French
+http://s01.mtvi.info:80/live?channelId=105&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Bein Max 5 FR
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/31.m3u8|User-agent=monkey
+#EXTINF:-1,Bein Max 4 FR
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/30.m3u8|User-agent=monkey
+#EXTINF:-1,Big Ten Network (BTN)
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/94.m3u8|User-agent=monkey
+#EXTINF:-1,PTV
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/147.m3u8|User-agent=monkey
+
+#EXTINF:0,Sport TV 1
+http://51.255.81.190:8080/PT:SPORT.TV1/mono.m3u8
+#EXTINF:0,Sport TV 2
+http://51.255.81.190:8080/PT:SPORT.TV2/mono.m3u8
+#EXTINF:0,Sport TV 3
+http://51.255.81.190:8080/PT:SPORT.TV3/mono.m3u8
+#EXTINF:0,Sport TV 4
+http://51.255.81.190:8080/PT:SPORT.TV4/mono.m3u8
+#EXTINF:0,Sport TV 5
+http://51.255.81.190:8080/PT:SPORT.TV5/mono.m3u8
+
+#EXTINF:-1,Arena Sport HD 1 CRO
+http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=78&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,Arena Sport HD 2 CRO
+http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=80&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,Arena Sport HD 4 CRO
+http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=84&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,Arena Sport HD 1 CRO
+http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=78&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Arena Sport HD 2 CRO
+http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=80&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Arena Sport HD 3 CRO
+http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=404&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Arena Sport HD 4 CRO
+http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=84&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Arena Sport 1
+http://s01.mtvi.info:80/live?channelId=154&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 2
+http://s01.mtvi.info:80/live?channelId=155&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 3
+http://s01.mtvi.info:80/live?channelId=156&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 4
+http://s01.mtvi.info:80/live?channelId=157&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 5
+http://s01.mtvi.info:80/live?channelId=158&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 1 HR
+http://s01.mtvi.info:80/live?channelId=159&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 2 HR
+http://s01.mtvi.info:80/live?channelId=160&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 3 HR
+http://s01.mtvi.info:80/live?channelId=161&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 4 HR
+http://s01.mtvi.info:80/live?channelId=162&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 5 HR
+http://s01.mtvi.info:80/live?channelId=174&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Arena Sport 1
+http://tinyurl.com/Docs4you-arnasp1
+#EXTINF:-1,Arena Sport 2
+http://tinyurl.com/Docs4you-arnasp2
+#EXTINF:-1,Arena Sport 3
+http://tinyurl.com/gpkrxmf
+#EXTINF:-1,Arena Sport 4
+http://tinyurl.com/h2tf8k2
+
+#EXTINF:-1,Sport Klub 1
+http://tinyurl.com/Docs4you-sk1
+#EXTINF:-1,Sport Klub 2
+http://tinyurl.com/Docs4you-sk2
+#EXTINF:-1,Sport Klub 3
+http://tinyurl.com/Docs4you-sk3
+#EXTINF:-1,Sport Klub 1 SR
+http://tinyurl.com/Docs4you-sk1sr
+#EXTINF:-1,Sport Klub 2 SR
+http://tinyurl.com/Docs4you-sk2sr
+#EXTINF:-1,Sport Klub 3 SR
+http://tinyurl.com/Docs4you-sk3sr
+
+#EXTINF:-1,SuperSport 1
+http://freeiptv2search.dyndns.tv:2801/live?channelId=349&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,SuperSport 2
+http://freeiptv2search.dyndns.tv:2801/live?channelId=350&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,SuperSport 3
+http://sangajstream.dyndns.biz:80/live?channelId=351&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,SuperSport 1
+http://freeiptv2search.dyndns.tv:2801/live?channelId=349&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,SuperSport 2
+http://freeiptv2search.dyndns.tv:2801/live?channelId=350&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,SuperSport 3
+http://sangajstream.dyndns.biz:80/live?channelId=351&uid=5475&deviceUser=admirasikira&devicePass=admira
+
+#EXTINF:-1,ORF Sport+
+http://stream6.dyndns.tv:8888/live?channelId=153&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,ORF Sport+
+http://stream6.dyndns.tv:8888/live?channelId=153&uid=3584&deviceUser=tecic101&devicePass=tecic101
+
+#EXTINF:-1,CBC Sport HD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/anis_sat.m3u8
+#EXTINF:-1,CBC Sport SD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream2/anis_sat.m3u8
+#EXTINF:-1,CBC Sport LQ
+http://s69362.cdn.ngenix.net/live/_definst_/Stream3/anis_sat.m3u8
+#EXTINF:-1,CBC Sport HD
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/playlist.m3u8
+#EXTINF:-1,CT Sport HD
+http://217.30.73.36:4000/udp/239.1.2.10:11111
+#EXTINF:-1,CT Sport
+http://217.30.73.36:4000/udp/239.1.2.4:11111
+#EXTINF:-1,Sport 1 HD
+http://217.30.73.36:4000/udp/239.1.2.34:11111
+#EXTINF:-1,Sport 2 HD
+http://217.30.73.36:4000/udp/239.1.1.39:11111
+
+#EXTINF:-1,Digi Sport 1
+http://89.35.34.254:9095/digisport1
+#EXTINF:-1,Digi Sport 2
+http://82.76.249.33/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1,Digi Sport 3
+http://89.35.34.254:22222/digisport3
+#EXTINF:-1,Digi Sport 4
+http://82.76.249.33/digiedge/digisport4hq/index.m3u8
+
+#EXTINF:-1,Sky Sport 1 HD DE
+http://s01.mtvi.info:80/live?channelId=18&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Sky Sport 2 HD DE
+http://s01.mtvi.info:80/live?channelId=17&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Sky Sport 1  HD DE
+http://tinyurl.com/jnb38bz
+#EXTINF:-1,Sky Sport 2 HD DE
+http://tinyurl.com/zybol6c
+#EXTINF:-1,Super Calcio HD
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/269.m3u8|User-agent=monkey
+#EXTINF:-1,Sky Calcio 1 HD
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/246.m3u8|User-agent=monkey
 #EXTINF:-1,Sky Bundesliga HD 1
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/60.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 2
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/61.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 3
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/62.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 4
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/63.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 5
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/64.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 6
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/15.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 7
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/14.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 8
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/13.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 9
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/12.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 10
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/16.m3u8|User-agent=monkey
-
-#EXTINF:-1,Racing UK
+#EXTINF:-1,Sky Bundesliga HD 1
+http://s01.mtvi.info:80/live?channelId=19&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Sky Bundesliga
+http://strimer06.vlagor-iptv.com:80/live?channelId=212&uid=783&deviceUser=gzim&devicePass=17102015
+#EXTINF:-1,Racing
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/84.m3u8|User-agent=monkey
 #EXTINF:-1,NHL Network
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/116.m3u8|User-agent=monkey
 #EXTINF:-1,NFL Network
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/82.m3u8|User-agent=monkey
-#EXTINF:-1,MUTV Scummy twats
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/145.m3u8|User-agent=monkey
-#EXTINF:-1,Chelsea
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/148.m3u8|User-agent=monkey
 #EXTINF:-1,Box Nation
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/44.m3u8|User-agent=monkey
-
-#EXTINF:-1,[COLOR red]###~~~Streams below this line only Work On MXPlayer or VIMu & iptv You can install these on Firesticks etc~~~###[/COLOR]
-http://
-
-#EXTINF:-1,BT Sport ESPN
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/47.m3u8
-#EXTINF:-1,Bein Sports USA
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/26.m3u8
-#EXTINF:-1,SportsNet World
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/243.m3u8
-#EXTINF:-1,SportsNet Onterio
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/245.m3u8
-#EXTINF:-1,SportsNet One
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/244.m3u8
-#EXTINF:-1,Star Sports2
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/150.m3u8
-#EXTINF:-1,Star Sports4
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/149.m3u8
-#EXTINF:-1,Eurosport 1
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/50.m3u8
-#EXTINF:-1,Eurosport 2
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/51.m3u8
-#EXTINF:-1,ESPN 1 USA
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/48.m3u8
-#EXTINF:-1,ESPN 2 USA
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/49.m3u8
-#EXTINF:-1,TSN Sports 1 LQ
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/253.m3u8
-#EXTINF:-1,TSN Sports 2 LQ
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/254.m3u8
-#EXTINF:-1,TSN Sports 1 SD
-rtmp://31.220.2.148:1935/live/_definst_/ts1
+#EXTINF:-1,Ten Cricket
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/152.m3u8|User-agent=monkey
 #EXTINF:-1,WWE Network HD
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/146.m3u8
+http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/146.m3u8|User-agent=monkey
+#EXTINF:-1,NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1,MUTV
+http://tinyurl.com/Docs4you-scumtv
+#EXTINF:-1,Chelsea TV
+http://tinyurl.com/Docs4you-chel
+#EXTINF:-1,Liverpool FC TV
+http://tinyurl.com/Docs4you-livtv
+#EXTINF:-1,MUTV [COLOR blue]Scummy Rags[/COLOR]
+http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/145.m3u8|User-agent=monkey
+#EXTINF:-1,Chelsea TV
+http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/148.m3u8|User-agent=monkey
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,Motors TV
+http://tinyurl.com/gvm9ean
+#EXTINF:-1,Boxnation
+http://tinyurl.com/zlguoks
+#EXTINF:-1,At The Races
+http://tinyurl.com/hpa5hor
+#EXTINF:-1,MLS / NBA HD
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
-#EXTINF:-1,Sky Sport 1 HD Italy
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/92.m3u8
-#EXTINF:-1,Sky Sport 2 HD Italy
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/93.m3u8
-#EXTINF:-1,Sky Sport 3 HD Italy
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/10.m3u8
-#EXTINF:-1,Sky Sport 24 HD Italy
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/11.m3u8
+#EXTINF:-1,O Sport SD
+http://92.62.234.204:2222/udp/239.4.0.101:1234
+#EXTINF:-1,Bahrain Sports
+http://iaa.flashmediacast.com:2387/live/Sports/chunklist_w314573105.m3u8
+#EXTINF:-1,Trace Sport Stars
+http://185.46.163.221:4477/TraceSportStars
+#EXTINF:-1,Auto Motor Sport channel HD
+http://185.46.163.221:6090/AMSHD-str6
 
-#EXTINF:-1,Sky Bundesliga HD 1
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/60.m3u8
-#EXTINF:-1,Sky Bundesliga HD 2
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/61.m3u8
-#EXTINF:-1,Sky Bundesliga HD 3
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/62.m3u8
-#EXTINF:-1,Sky Bundesliga HD 4
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/63.m3u8
-#EXTINF:-1,Sky Bundesliga HD 5
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/64.m3u8
-#EXTINF:-1,Sky Bundesliga HD 6
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/15.m3u8
-#EXTINF:-1,Sky Bundesliga HD 7
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/14.m3u8
-#EXTINF:-1,Sky Bundesliga HD 8
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/13.m3u8
-#EXTINF:-1,Sky Bundesliga HD 9
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/12.m3u8
-#EXTINF:-1,Sky Bundesliga HD 10
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/16.m3u8
+#EXTINF:-1,Dubai Sports HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,Dubai Sports
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1000000.m3u8
+#EXTINF:-1,Dubai Sports
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1,Bahrain Sports
+http://iaa.flashmediacast.com:2387/live/Sports/chunklist_w314573105.m3u8
 
-#EXTINF:-1,Racing UK
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/84.m3u8
-#EXTINF:-1,NHL Network
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/116.m3u8
-#EXTINF:-1,NFL Network
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/82.m3u8
-#EXTINF:-1,MUTV Scummy twats
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/145.m3u8
-#EXTINF:-1,Chelsea
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/148.m3u8
-#EXTINF:-1,Box Nation
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/44.m3u8
+#EXTINF:-1,BBC 1
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/22.m3u8|User-agent=monkey
+#EXTINF:-1,BBC 2
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/23.m3u8|User-agent=monkey
+#EXTINF:-1,BBC 3
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/24.m3u8|User-agent=monkey
+#EXTINF:-1,BBC 4
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/25.m3u8|User-agent=monkey
+#EXTINF:-1,ITV 1
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/52.m3u8|User-agent=monkey
+#EXTINF:-1,ITV 2
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/53.m3u8|User-agent=monkey
+#EXTINF:-1,ITV 3
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/54.m3u8|User-agent=monkey
+#EXTINF:-1,ITV 4
+http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/55.m3u8|User-agent=monkey
 
-#EXTINF:-1,[COLOR red]###~~~Streams below this line are NOT 24/7 & Only Work On KODI~~~###[/COLOR]
-http://
-#EXTINF:-1,SuperCalcioHD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/269.ts|User-agent=monkey
-#EXTINF:-1,astro3
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/267.ts|User-agent=monkey
-#EXTINF:-1,astro2
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/266.ts|User-agent=monkey
-#EXTINF:-1,astro1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/265.ts|User-agent=monkey
-#EXTINF:-1,TSN 1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/253.ts|User-agent=monkey
-#EXTINF:-1,TSN 2
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/254.ts|User-agent=monkey
-#EXTINF:-1,SportsNetWorld
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/243.ts|User-agent=monkey
-#EXTINF:-1,SportsNetOnterio
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/245.ts|User-agent=monkey
-#EXTINF:-1,SportsNetOne
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/244.ts|User-agent=monkey
-#EXTINF:-1,BT Europe SD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/237.ts|User-agent=monkey
-#EXTINF:-1,StarSports3
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/240.ts|User-agent=monkey
-#EXTINF:-1,Premier Sports
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/56.ts|User-agent=monkey
-#EXTINF:-1,StarSports1-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/151.ts|User-agent=monkey
-#EXTINF:-1,StarSports2-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/150.ts|User-agent=monkey
-#EXTINF:-1,StarSports4-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/149.ts|User-agent=monkey
-#EXTINF:-1,TenSports-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/153.ts|User-agent=monkey
-#EXTINF:-1,TenCricket-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/152.ts|User-agent=monkey
-#EXTINF:-1,PTV-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/147.ts|User-agent=monkey
-#EXTINF:-1,WWE-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/146.ts|User-agent=monkey
-#EXTINF:-1,MUTV-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/145.ts|User-agent=monkey
-#EXTINF:-1,Chalsea-Toni
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/148.ts|User-agent=monkey
-#EXTINF:-1,Star Sports 1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/115.ts|User-agent=monkey
-#EXTINF:-1,Sporttv1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/7.ts|User-agent=monkey
-#EXTINF:-1,Sporttv2
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/8.ts|User-agent=monkey
-#EXTINF:-1,Sporttv3
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/9.ts|User-agent=monkey
-#EXTINF:-1,Sport Klub 1 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/87.ts|User-agent=monkey
-#EXTINF:-1,Sport Klub 2 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/88.ts|User-agent=monkey
-#EXTINF:-1,Sport Klub 3 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/89.ts|User-agent=monkey
-#EXTINF:-1,SkySports 1 HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/124.ts|User-agent=monkey
-#EXTINF:-1,SkySports 2 HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/123.ts|User-agent=monkey
-#EXTINF:-1,SkySports 3 HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/122.ts|User-agent=monkey
-#EXTINF:-1,SkySports 4 HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/121.ts|User-agent=monkey
-#EXTINF:-1,SkySports 5 HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/120.ts|User-agent=monkey
-#EXTINF:-1,SkySports F1 HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/119.ts|User-agent=monkey
-#EXTINF:-1,SkySports News HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/118.ts|User-agent=monkey
-#EXTINF:-1,SkySports 1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/75.ts|User-agent=monkey
-#EXTINF:-1,SkySports 2
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/76.ts|User-agent=monkey
-#EXTINF:-1,SkySports 3
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/77.ts|User-agent=monkey
-#EXTINF:-1,SkySports 4
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/78.ts|User-agent=monkey
-#EXTINF:-1,SkySports 5
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/79.ts|User-agent=monkey
-#EXTINF:-1,SkySports F1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/80.ts|User-agent=monkey
-#EXTINF:-1,SkySports News
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/81.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 1 HD Italy
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/92.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 2 HD Italy
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/93.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 3 HD Italy
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/10.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 24 HD Italy
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/11.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 1 HD Deutch Germany
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/58.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 2 HD Deutch Germany
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/59.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/60.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD2
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/61.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD3
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/62.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD4
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/63.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD5
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/64.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD6
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/15.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD7
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/14.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD8
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/13.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD9
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/12.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD10
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/16.ts|User-agent=monkey
-#EXTINF:-1,Setanta Sports
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/57.ts|User-agent=monkey
-#EXTINF:-1,NHL Network
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/116.ts|User-agent=monkey
-#EXTINF:-1,NFL Network
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/82.ts|User-agent=monkey
-#EXTINF:-1,NBC Sports
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/17.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 1 HD NL
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/5.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 2 HD NL
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/4.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 3 HD NL
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/3.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 4 HD NL
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/2.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 5 HD NL
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/1.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 1 USA
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/85.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 2 USA
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/86.ts|User-agent=monkey
-#EXTINF:-1,Eurosport 1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/50.ts|User-agent=monkey
-#EXTINF:-1,Eurosport 2
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/51.ts|User-agent=monkey
-#EXTINF:-1,ESPN USA
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/48.ts|User-agent=monkey
-#EXTINF:-1,ESPN 2 USA
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/49.ts|User-agent=monkey
-#EXTINF:-1,Channel 1 (not 24x7) 1-20  are Sports Moastly HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/95.ts|User-agent=monkey
-#EXTINF:-1,Channel 2 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/96.ts|User-agent=monkey
-#EXTINF:-1,Channel 3 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/97.ts|User-agent=monkey
-#EXTINF:-1,Channel 4 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/98.ts|User-agent=monkey
-#EXTINF:-1,Channel 5 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/99.ts|User-agent=monkey
-#EXTINF:-1,Channel 6 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/100.ts|User-agent=monkey
-#EXTINF:-1,Channel 7 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/101.ts|User-agent=monkey
-#EXTINF:-1,Channel 8 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/102.ts|User-agent=monkey
-#EXTINF:-1,Channel 9 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/103.ts|User-agent=monkey
-#EXTINF:-1,Channel 10 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/104.ts|User-agent=monkey
-#EXTINF:-1,Channel 11 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/105.ts|User-agent=monkey
-#EXTINF:-1,Channel 12 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/106.ts|User-agent=monkey
-#EXTINF:-1,Channel 13 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/107.ts|User-agent=monkey
-#EXTINF:-1,Channel 14 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/108.ts|User-agent=monkey
-#EXTINF:-1,Channel 15 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/109.ts|User-agent=monkey
-#EXTINF:-1,Channel 16 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/110.ts|User-agent=monkey
-#EXTINF:-1,Channel 17 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/111.ts|User-agent=monkey
-#EXTINF:-1,Channel 18 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/112.ts|User-agent=monkey
-#EXTINF:-1,Channel 19 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/113.ts|User-agent=monkey
-#EXTINF:-1,Channel 20 (not 24x7)
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/114.ts|User-agent=monkey
-#EXTINF:-1,Canal   Sport
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/91.ts|User-agent=monkey
-#EXTINF:-1,Canal
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/90.ts|User-agent=monkey
-#EXTINF:-1,Btn
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/94.ts|User-agent=monkey
-#EXTINF:-1,BT Sport 1
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/45.ts|User-agent=monkey
-#EXTINF:-1,BT Sport 2
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/46.ts|User-agent=monkey
-#EXTINF:-1,BT Sport Europe SD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/127.ts|User-agent=monkey
-#EXTINF:-1,BT Sport ESPN UK
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/47.ts|User-agent=monkey
-#EXTINF:-1,BT Sport 1 HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/126.ts|User-agent=monkey
-#EXTINF:-1,BT Sport 2 HQ
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/125.ts|User-agent=monkey
-#EXTINF:-1,Box Nation
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/44.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports USA
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/26.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 1 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/32.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 2 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/33.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 3 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/34.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 4 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/35.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 5 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/36.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 6 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/37.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 7 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/38.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 8 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/39.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 9 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/40.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 10 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/41.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 11 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/42.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 12 HD
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/43.ts|User-agent=monkey
-#EXTINF:-1,Arena Sports 1 HD  Croatian
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/18.ts|User-agent=monkey
-#EXTINF:-1,Arena Sports 2 HD Croatian
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/19.ts|User-agent=monkey
-#EXTINF:-1,Arena Sports 3 HD Croatian
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/20.ts|User-agent=monkey
-#EXTINF:-1,Arena Sports 4 HD Croatian
-http://50.7.149.58:8000/live/line3/oijasoidjo9j0joij0o9uj09ja0sdj/21.ts|User-agent=monkey
-#EXTINF:-1,SuperCalcioHD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/269.ts|User-agent=monkey
-#EXTINF:-1,astro3
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/267.ts|User-agent=monkey
-#EXTINF:-1,astro2
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/266.ts|User-agent=monkey
-#EXTINF:-1,astro1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/265.ts|User-agent=monkey
-#EXTINF:-1,TSN 1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/253.ts|User-agent=monkey
-#EXTINF:-1,TSN 2
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/254.ts|User-agent=monkey
-#EXTINF:-1,SportsNetWorld
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/243.ts|User-agent=monkey
-#EXTINF:-1,SportsNetOnterio
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/245.ts|User-agent=monkey
-#EXTINF:-1,SportsNetOne
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/244.ts|User-agent=monkey
-#EXTINF:-1,BT Europe SD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/237.ts|User-agent=monkey
-#EXTINF:-1,StarSports3
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/240.ts|User-agent=monkey
-#EXTINF:-1,Premier Sports
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/56.ts|User-agent=monkey
-#EXTINF:-1,StarSports1-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/151.ts|User-agent=monkey
-#EXTINF:-1,StarSports2-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/150.ts|User-agent=monkey
-#EXTINF:-1,StarSports4-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/149.ts|User-agent=monkey
-#EXTINF:-1,TenSports-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/153.ts|User-agent=monkey
-#EXTINF:-1,TenCricket-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/152.ts|User-agent=monkey
-#EXTINF:-1,PTV-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/147.ts|User-agent=monkey
-#EXTINF:-1,WWE-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/146.ts|User-agent=monkey
-#EXTINF:-1,MUTV-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/145.ts|User-agent=monkey
-#EXTINF:-1,Chalsea-Toni
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/148.ts|User-agent=monkey
-#EXTINF:-1,Star Sports 1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/115.ts|User-agent=monkey
-#EXTINF:-1,Sporttv1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/7.ts|User-agent=monkey
-#EXTINF:-1,Sporttv2
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/8.ts|User-agent=monkey
-#EXTINF:-1,Sporttv3
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/9.ts|User-agent=monkey
-#EXTINF:-1,Sport Klub 1 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/87.ts|User-agent=monkey
-#EXTINF:-1,Sport Klub 2 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/88.ts|User-agent=monkey
-#EXTINF:-1,Sport Klub 3 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/89.ts|User-agent=monkey
-#EXTINF:-1,SkySports 1 HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/124.ts|User-agent=monkey
-#EXTINF:-1,SkySports 2 HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/123.ts|User-agent=monkey
-#EXTINF:-1,SkySports 3 HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/122.ts|User-agent=monkey
-#EXTINF:-1,SkySports 4 HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/121.ts|User-agent=monkey
-#EXTINF:-1,SkySports 5 HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/120.ts|User-agent=monkey
-#EXTINF:-1,SkySports F1 HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/119.ts|User-agent=monkey
-#EXTINF:-1,SkySports News HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/118.ts|User-agent=monkey
-#EXTINF:-1,SkySports 1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/75.ts|User-agent=monkey
-#EXTINF:-1,SkySports 2
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/76.ts|User-agent=monkey
-#EXTINF:-1,SkySports 3
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/77.ts|User-agent=monkey
-#EXTINF:-1,SkySports 4
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/78.ts|User-agent=monkey
-#EXTINF:-1,SkySports 5
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/79.ts|User-agent=monkey
-#EXTINF:-1,SkySports F1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/80.ts|User-agent=monkey
-#EXTINF:-1,SkySports News
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/81.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 1 HD Italy
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/92.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 2 HD Italy
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/93.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 3 HD Italy
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/10.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 24 HD Italy
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/11.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 1 HD Deutch Germany
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/58.ts|User-agent=monkey
-#EXTINF:-1,Sky Sport 2 HD Deutch Germany
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/59.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/60.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD2
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/61.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD3
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/62.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD4
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/63.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD5
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/64.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD6
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/15.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD7
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/14.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD8
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/13.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD9
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/12.ts|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD10
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/16.ts|User-agent=monkey
-#EXTINF:-1,Setanta Sports
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/57.ts|User-agent=monkey
-#EXTINF:-1,NHL Network
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/116.ts|User-agent=monkey
-#EXTINF:-1,NFL Network
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/82.ts|User-agent=monkey
-#EXTINF:-1,NBC Sports
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/17.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 1 HD NL
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/5.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 2 HD NL
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/4.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 3 HD NL
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/3.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 4 HD NL
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/2.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 5 HD NL
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/1.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 1 USA
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/85.ts|User-agent=monkey
-#EXTINF:-1,Fox Sports 2 USA
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/86.ts|User-agent=monkey
-#EXTINF:-1,Eurosport 1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/50.ts|User-agent=monkey
-#EXTINF:-1,Eurosport 2
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/51.ts|User-agent=monkey
-#EXTINF:-1,ESPN USA
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/48.ts|User-agent=monkey
-#EXTINF:-1,ESPN 2 USA
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/49.ts|User-agent=monkey
-#EXTINF:-1,Channel 1 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/95.ts|User-agent=monkey
-#EXTINF:-1,Channel 2 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/96.ts|User-agent=monkey
-#EXTINF:-1,Channel 3 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/97.ts|User-agent=monkey
-#EXTINF:-1,Channel 4 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/98.ts|User-agent=monkey
-#EXTINF:-1,Channel 5 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/99.ts|User-agent=monkey
-#EXTINF:-1,Channel 6 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/100.ts|User-agent=monkey
-#EXTINF:-1,Channel 7 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/101.ts|User-agent=monkey
-#EXTINF:-1,Channel 8 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/102.ts|User-agent=monkey
-#EXTINF:-1,Channel 9 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/103.ts|User-agent=monkey
-#EXTINF:-1,Channel 10 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/104.ts|User-agent=monkey
-#EXTINF:-1,Channel 11 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/105.ts|User-agent=monkey
-#EXTINF:-1,Channel 12 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/106.ts|User-agent=monkey
-#EXTINF:-1,Channel 13 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/107.ts|User-agent=monkey
-#EXTINF:-1,Channel 14 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/108.ts|User-agent=monkey
-#EXTINF:-1,Channel 15 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/109.ts|User-agent=monkey
-#EXTINF:-1,Channel 16 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/110.ts|User-agent=monkey
-#EXTINF:-1,Channel 17 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/111.ts|User-agent=monkey
-#EXTINF:-1,Channel 18 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/112.ts|User-agent=monkey
-#EXTINF:-1,Channel 19 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/113.ts|User-agent=monkey
-#EXTINF:-1,Channel 20 (not 24x7)
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/114.ts|User-agent=monkey
-#EXTINF:-1,Canal   Sport
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/91.ts|User-agent=monkey
-#EXTINF:-1,Canal
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/90.ts|User-agent=monkey
-#EXTINF:-1,Btn
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/94.ts|User-agent=monkey
-#EXTINF:-1,BT Sport 1
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/45.ts|User-agent=monkey
-#EXTINF:-1,BT Sport 2
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/46.ts|User-agent=monkey
-#EXTINF:-1,BT Sport Europe SD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/127.ts|User-agent=monkey
-#EXTINF:-1,BT Sport ESPN UK
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/47.ts|User-agent=monkey
-#EXTINF:-1,BT Sport 1 HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/126.ts|User-agent=monkey
-#EXTINF:-1,BT Sport 2 HQ
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/125.ts|User-agent=monkey
-#EXTINF:-1,Box Nation
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/44.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports USA
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/26.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 1 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/32.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 2 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/33.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 3 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/34.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 4 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/35.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 5 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/36.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 6 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/37.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 7 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/38.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 8 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/39.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 9 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/40.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 10 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/41.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 11 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/42.ts|User-agent=monkey
-#EXTINF:-1,Bein Sports 12 HD
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/43.ts|User-agent=monkey
-#EXTINF:-1,Arena Sports 1 HD  Croatian
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/18.ts|User-agent=monkey
-#EXTINF:-1,Arena Sports 2 HD Croatian
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/19.ts|User-agent=monkey
-#EXTINF:-1,Arena Sports 3 HD Croatian
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/20.ts|User-agent=monkey
-#EXTINF:-1,Arena Sports 4 HD Croatian
-http://50.7.149.58:8000/live/line1/unh937yn98m9q38mqe/21.ts|User-agent=monkey
+#EXTINF:-1,Pac 12 (Arizona)
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_2328_av-p.m3u8
+#EXTINF:-1,Pac 12 (Bay Area)
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_2328_av-p.m3u8
+#EXTINF:-1,Pac 12 (Los Angeles)
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_2328_av-p.m3u8
+#EXTINF:-1,Pac 12 (Mountain)
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_2328_av-p.m3u8
+#EXTINF:-1,Pac 12 (Network)
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8
