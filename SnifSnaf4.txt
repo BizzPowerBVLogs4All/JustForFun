@@ -1,619 +1,277 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR lime]Info Source...Xtreams-Codes IPTV[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR lime]Xtreams-Codes IPTV - Has Some Time Left...[/COLOR][/I][/B]</title>
 <link>http://dummytv.com</link>
 <thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2011/27/active-logo-1310050453.jpg</thumbnail>
 </item>
 
 <item>
-<title>[B][I][COLOR lime]Status,Active/Expires,Never/Trial Account,No/Max.Connections,40[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2011/27/active-logo-1310050453.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]English Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Premier Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/626.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/223.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/617.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/615.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/224.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/618.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/616.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport Extra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/613.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/614.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>EuroSport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/612.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>EuroSport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/621.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/219.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/611.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/610.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/609.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/608.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/607.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 3 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/606.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/605.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 4 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/604.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/603.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sports F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/365.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport News HQ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/602.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/453.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/118.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/454.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/119.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/455.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/120.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/456.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/121.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]German Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sport Time TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/523.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sport Time TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/24.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sport Time TV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/27.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Bundesliga</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/34.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/542.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/30.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/545.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/31.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Sky Italy Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky Calcio 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/498.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio HD 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/499.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio HD 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/78.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Premium Calcio HD 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/79.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Fox Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/73.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/51.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/56.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/57.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Sport 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/58.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5255.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/55.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5243.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>[B][I][COLOR cornflowerblue]France Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/214.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5244.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/162.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5245.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/215.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5246.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/163.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5247.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/216.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5248.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/208.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5249.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/151.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5250.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Portugal Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/518.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5251.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/519.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5252.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/520.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>MLB HD 11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5253.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/521.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/82.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/522.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/83.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Spanish Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Canal Liga HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/593.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/84.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Liga</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/570.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/85.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Golf HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/592.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/86.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/571.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky BT 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/1717.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/243.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sky BT 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/1716.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Futboll HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/591.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BT Sports Europe</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4120.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Futboll</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/572.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>BT Sports ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4720.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Deportes HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/590.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>CTH XD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3495.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Canal Deportes</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/245.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>CTH 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3501.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Sports Mania</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/555.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>CTH 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3500.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Albania Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Super Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/646.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>CTH 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3499.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Super Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/647.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>CTH 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3498.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Super Sport 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/648.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>CTH 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3497.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Super Sport 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/649.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>TSN 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/48.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Bein Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/141.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>TSN 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/49.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/142.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>TSN 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/1705.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 3HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/143.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>TSN 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/50.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/144.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>TSN 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/1706.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/145.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Bein HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4895.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/146.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Super Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/698.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/147ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Super Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/697.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/148.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Super Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/696.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/149.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Super Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/695.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/150.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>NFL Now HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4273.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 13 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/494.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>NBA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4274.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>[B][I][COLOR cornflowerblue]Mix Sports Channels[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61MegpimmPL._SL500_AA280_.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sport Klub 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/130.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>NHL Network HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4119.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Sport Klub 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/131.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>NBC Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/46.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Sport Klub 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/132.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sportsnet World HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/53.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Lig TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/133.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sportsnet ONT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/52.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Lig TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/134.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sportsnet ONE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/51.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
 
 <item>
-<title>Lig TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gem-alta-iptv.no-ip.net:8899/live/belkhirabdou1/belkhirabdou1/488.ts&amp;streamtype=TSDOWNLOADER</link>
+<title>Sportsnet 360</title>
+<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/54.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
 </item>
