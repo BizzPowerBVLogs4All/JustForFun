@@ -119,7 +119,7 @@
 </item>
 
 <item>
-<title>BT Sports Euro HD</title>
+<title>BT Sports Europe HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/105.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
