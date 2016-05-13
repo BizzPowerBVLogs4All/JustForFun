@@ -1,277 +1,365 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-
 <item>
-<title>[B][I][COLOR lime]Xtreams-Codes IPTV - Has Some Time Left...[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2011/27/active-logo-1310050453.jpg</thumbnail>
-</item>
-
-<item>
-<title>MLB Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5255.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5243.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5244.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5245.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5246.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5247.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5248.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5249.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5250.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5251.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5252.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>MLB HD 11</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/5253.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/112.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/82.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/107.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/117.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/83.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/108.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/113.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/118.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/84.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/109.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/17.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/119.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/85.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/110.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/114.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/120.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/86.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/111.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>Sky BT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/1717.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/115.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>Sky BT 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/1716.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>BT Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/123.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sports Europe</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4120.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>BT Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/28.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sports ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4720.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>BT Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/29.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>CTH XD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3495.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>BT Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/124.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>CTH 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3501.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>BT Sports Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/86.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>CTH 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3500.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>BT Sports Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/159.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>CTH 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3499.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>BT Sports Euro HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/105.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>CTH 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3498.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>BT Sports Europe HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/153.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>CTH 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/3497.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>NBC Sports Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/73.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
-<title>TSN 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/48.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>TSN 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/49.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>TSN 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/1705.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>TSN 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/50.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>TSN 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/1706.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Bein HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4895.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Super Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/698.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Super Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/697.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Super Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/696.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Super Sports 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/695.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>NFL Now HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4273.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>NBA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4274.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>NHL Network HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/4119.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>NBC Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/46.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sportsnet World HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/53.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sportsnet ONT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/52.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
-</item>
-
-<item>
-<title>Sportsnet ONE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/51.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<title>Sportsnet West</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/3.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
 
 <item>
 <title>Sportsnet 360</title>
-<link>plugin://plugin.video.f4mTester/?url=http://188.165.12.93:8000/live/JJ/JJ/54.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-keep-your-fingers-crossed-4.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/2.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/100.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet World</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/4.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Setanta Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/131.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Boxnation HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/130.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>C.T.H Stadium 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/135.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>C.T.H Stadium 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/136.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>C.T.H Stadium 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/137.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>C.T.H Stadium 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/138.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>C.T.H Stadium 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/139.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>C.T.H Stadium 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/140.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>C.T.H Stadium X HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/141.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Astro Super Sport 1 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/148.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Astro Super Sport 2 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/149.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Astro Super Sport 3 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/150.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>Astro Super Sport 4 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/151.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 1 (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/142.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 1 (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/63.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 2 (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/143.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 3 (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/144.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 3 (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/65.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 4 (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/145.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 5 (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/67.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 5 (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/146.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/147.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN 1 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/134.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN 2 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/50.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN 3 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/51.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN 4 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/52.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN 5 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/53.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN 6 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/54.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN 7 HD (Shows EPL)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/55.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Live Sports Extra 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/68.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Live Sports Extra 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/69.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Live Sports Extra 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/70.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Live Sports Extra 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/71.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Live Sports Extra 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/72.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://mobileautospatx.com/wp-content/uploads/2015/08/vip.png</thumbnail>
 </item>
