@@ -1,255 +1,662 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR cornflowerblue]Info Source...Xtreams-Codes IPTV[/COLOR][/I][/B]</title>
+
+<title>[B][I][COLOR cornflowerblue]Info Source...Xtreams-Codes IPTV - List Two[/COLOR][/I][/B]</title>
 <link>http://dummytv.com</link>
 <thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2011/27/active-logo-1310050453.jpg</thumbnail>
 </item>
 
 <item>
-<title>[B][I][COLOR cornflowerblue]Status,Active/Expires,Never/Trial Account,No/Max.Connections,100[/COLOR][/I][/B]</title>
-<link>http://dummytv.com</link>
-<thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2011/27/active-logo-1310050453.jpg</thumbnail>
+<title>Sky Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2006.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>CTH Stadium 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/687.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+<title>Sky Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2007.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>CTH Stadium 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/688.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+<title>Sky Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2011.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>CTH Stadium 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/689.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+<title>Sky Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2012.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>CTH Stadium 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/690.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+<title>Sky Sport 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2451.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>CTH Stadium 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/691.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+<title>Sky Sport F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2502.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>CTH Stadium 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/692.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.richardbarrow.com/wp-content/uploads/2013/08/eplschedule.jpg</thumbnail>
+<title>BT Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1795.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 1 HD (UK)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/295.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>BT Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1796.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 2 HD (UK)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/296.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 3 HD (UK)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/297.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 4 HD (UK)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/298.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/3.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sport 5 HD (UK)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/299.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/4.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports F1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/300.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/5.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports News HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/512.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/6.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/221.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/7.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/222.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/8.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sport Europe HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/511.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/9.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>BT Sport ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/306.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/10.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Setanta Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/305.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 11</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/11.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Premium Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/304.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://img.skysports.com/08/08/Others/239443.jpg</thumbnail>
+<title>Bein Sport HD 12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/12.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Sci-fi and Horror</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/535.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+<title>Bein Sport HD 13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/13.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Crime and Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/531.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+<title>Bein Sport HD 14</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/14.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Premiere HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/536.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+<title>Bein Sport HD 15</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/15.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Action and Adventure</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/538.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+<title>Bein Sport HD 16</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/16.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Showcase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/534.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+<title>Bein Sport HD 17</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2837.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Thriller</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/533.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+<title>Bein Sport HD 1 (FR)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/17.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Movies Comedy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/532.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.lmo.co.uk/wp-content/uploads/2011/02/Sky-Movies-HD.jpg</thumbnail>
+<title>Bein Sport HD 2 (FR)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/18.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>NFL Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/336.ts
-&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://joefavorito.com/wp-content/uploads/2014/12/maxresdefault-1.jpg</thumbnail>
+<title>Bein Sport HD 3 (FR)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/19.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Fox Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=
-http://iptvx.starynos.com:8000/live/backup/backup/346.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.vizrt.com/incoming/42722/FOX-Sports-South-Anchor-Desk.jpg/alternates/w940up/FOX-Sports-South-Anchor-Desk.jpg</thumbnail>
+<title>Bein Sport 1 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/50.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/280.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 2 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/51.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/281.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 3 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/52.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/282.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 4 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/53.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/283.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 5 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/54.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/284.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 6 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/55.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 6 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/287.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 7 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/56.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/288.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 8 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/57.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 8 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/289.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 9 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/58.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 9 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/290.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 10 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/59.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 10 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/291.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 11 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/60.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 11 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/292.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 12 HD Backup</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/61.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sports 12 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvx.starynos.com:8000/live/backup/backup/293.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.cox.com/wcm/en/video/tv/bein-sport/bein-tv-sp-promo.jpg</thumbnail>
+<title>Bein Sport 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1962.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1963.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1964.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 4 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1965.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 5 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1967.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 6 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2357.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 7 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2358.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 8 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2359.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 9 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2360.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 10 SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2361.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport Global</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/70.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1221.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Nile Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2127.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Saudi Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2806.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Iraqia Sports</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2808.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/519.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1201.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/521.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>OSN Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/510.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>OSN WWE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1128.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>AD Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1041.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>AD Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1042.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>AD Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1301.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Ad Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2416.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>AD Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2417.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1217.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1218.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1219.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1220.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Kass Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1213.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Al Kass Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1214.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1898.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1899.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1900.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1901.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 1 (Tur)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2561.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 2 (Tur)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2562.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Lig TV 3 (Tur)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2563.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Smart Sport (Tur)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2460.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>TRT 3 Spor (Tur)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2734.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sports TV (Tur)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2735.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>NTV Spor (Tur)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2452.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports (Tur)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2461.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>C More Sport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2471.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Canal Liga 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2516.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Canal Liga  2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2517.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Canal Deporte SD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2432.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Canal Deporte HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2518.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Canal Futbol HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2519.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Canal+ Futbol HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1787.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Abono Futbol HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2514.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Beinsport HD (ES)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2515.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sport 1 (ES)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2434.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sport 2 (ES)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2435.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport (ES)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1906.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1 (DE)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1947.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2 (DE)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/1948.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Bundesliga</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2379.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1 (IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/25.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2 (IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/26.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Calcio 1(IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2366.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Calcio 2(IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2367.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Calcio 3(IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2368.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 24 (IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2369.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport F1 (IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2363.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Moto GP (IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2362.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports HD (IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2547.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Premium Sport (IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2538.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Premium Calcio (IT)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/adam/adam/2543.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
 </item>

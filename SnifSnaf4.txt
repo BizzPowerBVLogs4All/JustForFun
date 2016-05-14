@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<title>[B][I][COLOR cornflowerblue]Info Source...Xtreams-Codes IPTV - List One[/COLOR][/I][/B]</title>
+<link>http://dummytv.com</link>
+<thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2011/27/active-logo-1310050453.jpg</thumbnail>
+</item>
+
 <item>
 <title>Sky Sports 1 HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/112.ts&amp;streamtype=TSDOWNLOADER</link>
