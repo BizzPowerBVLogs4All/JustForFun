@@ -1,59 +1,127 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]UPDATE 10th MAY -  Dead Streams Removed - PLEASE REPORT DEAD STREAMS ON OUR FACEBOOK PAGE - http://tinyurl.com/z7vto88[/COLOR]
+#EXTINF:-1,[COLOR red]UPDATE 15th MAY - Dead Streams Removed & OSN Sports + More Added[/COLOR]
 http://
 #EXTINF:-1,[COLOR blue]Disclaimer - All Streams On This List Are Freely Available Around the Internet - I Just Collect Them& Put On Here[/COLOR]
 http://
-
-#EXTINF:-1,Sky Sports 1 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/112.m3u8
-#EXTINF:-1,Sky Sports 2 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/113.m3u8
-#EXTINF:-1,Sky Sports 3 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/109.m3u8
-#EXTINF:-1,Sky Sports 4 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/114.m3u8
-#EXTINF:-1,Sky Sports 5 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/115.m3u8
-
-#EXTINF:-1,Sky Sports 1 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/107.m3u8
-#EXTINF:-1,Sky Sports 2 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/108.m3u8
-#EXTINF:-1,Sky Sports 3 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/17.m3u8
-#EXTINF:-1,Sky Sports 4 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/110.m3u8
-#EXTINF:-1,Sky Sports 5 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/111.m3u8
-
-#EXTINF:-1,Sky Sports 2 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/5.m3u8
-#EXTINF:-1,Sky Sports 3 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/6.m3u8
-#EXTINF:-1,Sky Sports 4 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/7.m3u8
-#EXTINF:-1,Sky Sports 5 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/8.m3u8
-
-#EXTINF:-1,Sky Sports 1 SD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/117.m3u8
-#EXTINF:-1,Sky Sports 2 SD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/118.m3u8
-#EXTINF:-1,Sky Sports 3 SD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/119.m3u8
-#EXTINF:-1,Sky Sports 4 SD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/120.m3u8
+#EXTINF:-1,[COLOR red]PLEASE REPORT DEAD STREAMS ON OUR FACEBOOK PAGE - http://tinyurl.com/z7vto88[/COLOR]
+http://
 
 #EXTINF:-1,Sky Sports 1
-http://bestiptv.dyndns.tv:80/live?channelId=84&uid=37&deviceUser=dina&devicePass=dina
+http://62.210.190.12:80/live/SPORT177/213916/2147.ts
 #EXTINF:-1,Sky Sports 2
-http://bestiptv.dyndns.tv:80/live?channelId=85&uid=37&deviceUser=dina&devicePass=dina
+http://62.210.190.12:80/live/SPORT177/213916/2146.ts
 #EXTINF:-1,Sky Sports 3
-http://bestiptv.dyndns.tv:80/live?channelId=86&uid=37&deviceUser=dina&devicePass=dina
+http://62.210.190.12:80/live/SPORT177/213916/2148.ts
 #EXTINF:-1,Sky Sports 4
-http://bestiptv.dyndns.tv:80/live?channelId=87&uid=37&deviceUser=dina&devicePass=dina
-#EXTINF:-1,Sky Sports 5 
-http://bestiptv.dyndns.tv:80/live?channelId=88&uid=37&deviceUser=dina&devicePass=dina
+http://62.210.190.12:80/live/SPORT177/213916/2149.ts
+#EXTINF:-1,Sky Sports 5
+http://62.210.190.12:80/live/SPORT177/213916/2150.ts
+
+#EXTINF:0,Sky Sports 1
+http://80.243.182.106:8080/Sk/SpoooS101/index.m3u8
+#EXTINF:0,Sky Sports 3
+http://80.243.182.106:8080/Sk/SpoooS33/index.m3u8
+#EXTINF:0,Sky Sports 4
+http://80.243.182.106:8080/Sk/SpoooS4/index.m3u8
+#EXTINF:0,Sky Sports 5
+http://80.243.182.106:8080/Sk/SpoooS5/index.m3u8
+
+#EXTINF:-1,Sky Sports 1 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/112.m3u8
+#EXTINF:-1,Sky Sports 2 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/113.m3u8
+#EXTINF:-1,Sky Sports 3 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/109.m3u8
+#EXTINF:-1,Sky Sports 4 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/114.m3u8
+#EXTINF:-1,Sky Sports 5 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/115.m3u8
+
+#EXTINF:-1,Sky Sports 1 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/107.m3u8
+#EXTINF:-1,Sky Sports 2 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/108.m3u8
+#EXTINF:-1,Sky Sports 3 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/17.m3u8
+#EXTINF:-1,Sky Sports 4 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/110.m3u8
+#EXTINF:-1,Sky Sports 5 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/111.m3u8
+
+#EXTINF:-1,Sky Sports 2 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/5.m3u8
+#EXTINF:-1,Sky Sports 3 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/6.m3u8
+#EXTINF:-1,Sky Sports 4 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/7.m3u8
+#EXTINF:-1,Sky Sports 5 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/8.m3u8
+
+#EXTINF:-1,Sky Sports 1 SD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/117.m3u8
+#EXTINF:-1,Sky Sports 2 SD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/118.m3u8
+#EXTINF:-1,Sky Sports 3 SD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/119.m3u8
+#EXTINF:-1,Sky Sports 4 SD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/120.m3u8
+
+#EXTINF:-1,Sky Sports 1 HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/526.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/527.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/528.ts
+#EXTINF:-1,Sky Sports 4 HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/529.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/530.ts
+#EXTINF:-1,Sky Sports F1
+http://becha-tv.ddns.net:8000/live/test_site/test_site/525.ts
+
+#EXTINF:-1,Sky Sports 1
+http://becha-tv.ddns.net:8000/live/test_site/test_site/531.ts
+#EXTINF:-1,Sky Sports 2
+http://becha-tv.ddns.net:8000/live/test_site/test_site/532.ts
+#EXTINF:-1,Sky Sports 3
+http://becha-tv.ddns.net:8000/live/test_site/test_site/533.ts
+#EXTINF:-1,Sky Sports 4
+http://becha-tv.ddns.net:8000/live/test_site/test_site/534.ts
+
+#EXTINF:-1,Sky Sports 1 HD
+http://tinyurl.com/docsforyouss1
+#EXTINF:-1,Sky Sports 2 HD
+http://tinyurl.com/docs4yousky2
+#EXTINF:-1,Sky Sports 3 HD
+http://tinyurl.com/hh85jdk
+#EXTINF:-1,Sky Sports 4 HD
+http://tinyurl.com/hwkmscx
+#EXTINF:-1,Sky Sports 5 HD
+http://tinyurl.com/docs4yousss5
+
+#EXTINF:-1,Sky Sport 1 SD
+http://boxiptv.noip.us:9998/live/jarod/skype/199.ts
+#EXTINF:-1,Sky Sport 2 SD
+http://boxiptv.noip.us:9998/live/jarod/skype/197.ts
+#EXTINF:-1,Sky Sport 3 SD
+http://boxiptv.noip.us:9998/live/jarod/skype/195.ts
+#EXTINF:-1,Sky Sport 4 SD
+http://boxiptv.noip.us:9998/live/jarod/skype/193.ts
+#EXTINF:-1,Sky Sport News HQ
+http://boxiptv.noip.us:9998/live/jarod/skype/190.ts
+#EXTINF:-1, Sky Sport News
+http://boxiptv.noip.us:9998/live/jarod/skype/635.ts
+
+#EXTINF:-1,Sky Sport 1 HD
+http://boxiptv.noip.us:9998/live/jarod/skype/200.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://boxiptv.noip.us:9998/live/jarod/skype/198.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://boxiptv.noip.us:9998/live/jarod/skype/196.ts
+#EXTINF:-1,Sky Sport 4 HD
+http://boxiptv.noip.us:9998/live/jarod/skype/194.ts
+#EXTINF:-1,Sky Sport 5 HD
+http://boxiptv.noip.us:9998/live/jarod/skype/191.ts
 
 #EXTINF:0,Sky Sports 1
 http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
@@ -65,6 +133,17 @@ http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8
 http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
 #EXTINF:0,Sky Sports 5
 http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8
+
+#EXTINF:-1,Sky Sports 1
+http://tinyurl.com/skysports1docs4you
+#EXTINF:-1,Sky Sports 2
+http://tinyurl.com/skysports2docs4you
+#EXTINF:-1,Sky Sports 3
+http://tinyurl.com/skysports3docs4you
+#EXTINF:-1,Sky Sports 4
+http://tinyurl.com/skysports4docs4you
+#EXTINF:-1,Sky Sports 5
+http://tinyurl.com/skysports5docs4you
 
 #EXTINF:-1,Sky Sports 1
 http://tinyurl.com/Docs4you-org-ss1
@@ -81,8 +160,17 @@ http://tinyurl.com/Docs4you-org-ssf1
 #EXTINF:-1,Sky Sports News HD
 http://tinyurl.com/Docs4you-org-ssnews
 
-#EXTINF:-1,Sky Sports 1-2-3-4-5 (Stream Switches Channels)
-http://tinyurl.com/Sky-Sports-1-By-Docs4you
+#EXTINF:-1,Sky Sports 1 SD
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
+#EXTINF:-1,Sky Sports 2 SD
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
+#EXTINF:-1,Sky Sports 3 SD
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
+#EXTINF:-1,Sky Sports 4 SD
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
+#EXTINF:-1,Sky Sports 5 SD
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
+
 #EXTINF:-1,Sky Sports HD – Bein Sports HD – BT Sports HD (Stream Switches Channels)
 http://92.222.205.40:8085/lighd
 
@@ -92,13 +180,23 @@ http://51.255.81.190:8080/UK-BT-Sport-1/mono.m3u8
 http://51.255.81.190:8080/UK-BT-Sport-2/mono.m3u8
 
 #EXTINF:-1,BT Sport 1 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/123.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/123.m3u8
 #EXTINF:-1,BT Sport 1 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/28.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/28.m3u8
 #EXTINF:-1,BT Sport 2 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/29.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/29.m3u8
 #EXTINF:-1,BT Sport 2 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/124.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/124.m3u8
+
+#EXTINF:-1,BT Sport 1
+http://tinyurl.com/z3na49x
+#EXTINF:-1,BT Sport 2
+http://tinyurl.com/gqkhkn9
+
+#EXTINF:-1,BT Sport 1
+http://boxiptv.noip.us:9998/live/jarod/skype/700.ts
+#EXTINF:-1,BT Sport 2
+http://boxiptv.noip.us:9998/live/jarod/skype/302.ts
 
 #EXTINF:-1,BT Sport 1
 http://bestiptv.dyndns.tv:80/live?channelId=94&uid=37&deviceUser=dina&devicePass=dina
@@ -109,15 +207,23 @@ http://bestiptv.dyndns.tv:80/live?channelId=95&uid=37&deviceUser=dina&devicePass
 http://tinyurl.com/Docs4you-BTS1
 #EXTINF:-1,BT Sport 2 SD
 http://tinyurl.com/Docs4you-BTS2
+#EXTINF:-1,BT Sport 1 HD
+http://tinyurl.com/btsport1docs4you
+#EXTINF:-1,BT Sport 2 HD
+http://tinyurl.com/btsport2docs4you
+#EXTINF:-1,BT Sport 1
+http://tinyurl.com/btsports1docs4you
+#EXTINF:-1,BT Sport 2
+http://tinyurl.com/btsports2docs4you
 
-#EXTINF:-1,BT Sport Europe HD
-http://tinyurl.com/Docs4you-BTEUR
+#EXTINF:-1,BT Sport Europe
+http://tinyurl.com/btsportseurodocs4you
 #EXTINF:-1,BT Sport Europe HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/153.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/153.m3u8
 #EXTINF:-1,BT Sport Europe HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/125.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/125.m3u8
 #EXTINF:-1,BT Sport Europe HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/86.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/86.m3u8
 
 #EXTINF:-1,BT Sport ESPN HD
 http://tinyurl.com/Docs4you-btespn
@@ -125,144 +231,267 @@ http://tinyurl.com/Docs4you-btespn
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/47.m3u8|User-agent=monkey
 #EXTINF:-1,BT Sport ESPN SD
 http://195.154.207.145:8000/play/ukespn
+#EXTINF:-1,BT Sport ESPN SD
+http://tinyurl.com/hpa5hor
+
+#EXTINF:-1,Eurosport
+http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8
+#EXTINF:-1,Eurosport
+http://ooyalahd2-f.akamaihd.net/i/esarn012_delivery@75190/master.m3u8
+#EXTINF:-1,Eurosport
+http://ooyalahd2-f.akamaihd.net/i/esarn013_delivery@75191/master.m3u8
+#EXTINF:-1,Eurosport
+http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8
+#EXTINF:-1,Eurosport
+http://ooyalahd2-f.akamaihd.net/i/esarn016_delivery@90477/master.m3u8
+#EXTINF:-1,Eurosport
+http://ooyalahd2-f.akamaihd.net/i/esarn017_delivery@47402/master.m3u8
+#EXTINF:-1,Eurosport
+http://ooyalahd2-f.akamaihd.net/i/esarn018_delivery@76469/master.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/212.ts
+#EXTINF:-1,Eurosport 2
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/68.ts
+#EXTINF:-1,EUROSPOR 2 XTRA HD
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/402.ts
 
 #EXTINF:-1,Setanta Sports Ireland*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/131.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/131.m3u8
+#EXTINF:-1,Setanta Sports Ireland
+http://s05.platinum-iptv.com:80/live?channelId=43&uid=2199&deviceSn=27997
+#EXTINF:-1,Premier Sport
+http://s05.platinum-iptv.com:80/live?channelId=42&uid=2199&deviceSn=27997
 #EXTINF:-1,Premier Sport
 http://tinyurl.com/Docs4you-premspo
-
+#EXTINF:-1,Premier Sport
+http://tinyurl.com/premsportdocs4you
+#EXTINF:-1,Premier Sport
+http://tinyurl.com/psdocs4you
+#EXTINF:-1,Premier Sport
+http://boxiptv.noip.us:9998/live/jarod/skype/260.ts
+#EXTINF:-1,Premier Sport
+http://boxiptv.noip.us:9998/live/jarod/skype/220.ts
 
 #EXTINF:-1,Fox Sports 1 HD USA
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8
 #EXTINF:-1,Fox Sports 1 HD USA
 http://tinyurl.com/Fox-Sports-1-By-Docs4you
+#EXTINF:-1,Fox Sports 1 HD USA
+http://tinyurl.com/docs4youfoxsports1
+#EXTINF:-1,Fox Sports 1 HD USA
+http://51.255.81.190:8080/NL:Fox.Sports.1/mono.m3u8
 #EXTINF:-1,Fox Sports 1 SD USA
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8
+#EXTINF:-1,Fox Sports 1 USA
+http://62.210.190.12:80/live/SPORT177/213916/2068.ts
+#EXTINF:-1,Sport USA*
+http://62.210.190.12:80/live/SPORT177/213916/1836.ts
 #EXTINF:1,Fox Deportes
 rtmp://videos.visionlatina.tv/LiveATV//caco2
+#EXTINF:-1,Fox Sport 1 NL
+http://51.255.81.190:8080/NL:Fox.Sports.1/mono.m3u8
+#EXTINF:-1,Fox Sport 2 NL
+http://51.255.81.190:8080/NL:Fox.Sports.2/mono.m3u8
+#EXTINF:-1,Fox Sport 1 NL
+http://stream6.dyndns.tv:8888/live?channelId=260&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,Fox Sport 2 NL
+http://stream6.dyndns.tv:8888/live?channelId=261&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,Fox Sport 3 NL
+http://stream6.dyndns.tv:8888/live?channelId=262&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,Fox Sport 4 NL
+http://stream6.dyndns.tv:8888/live?channelId=263&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,Fox Sport 5 NL
+http://stream6.dyndns.tv:8888/live?channelId=264&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:-1,Fox Sport 1 NL
+http://stream6.dyndns.tv:8888/live?channelId=260&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Fox Sport 2 NL
+http://stream6.dyndns.tv:8888/live?channelId=261&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Fox Sport 3 NL
+http://stream6.dyndns.tv:8888/live?channelId=262&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Fox Sport 4 NL
+http://stream6.dyndns.tv:8888/live?channelId=263&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Fox Sport 5 NL
+http://stream6.dyndns.tv:8888/live?channelId=264&uid=5475&deviceUser=admirasikira&devicePass=admira
 
 #EXTINF:-1,NBCSN Sports Network HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/73.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/73.m3u8
 #EXTINF:-1,NBCSN Sports Network HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/147.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/147.m3u8
 #EXTINF:-1,NBCSN Match Time 1 HD (Shows Other Channels To)*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/134.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/134.m3u8
 #EXTINF:-1,NBCSN Match Time 2 HD (Shows Other Channels To)*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/50.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/50.m3u8
 #EXTINF:-1,NBCSN Match Time 3 HD (Shows Other Channels To)*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/51.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/51.m3u8
 #EXTINF:-1,NBCSN Match Time 4 HD (Shows Other Channels To)*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/52.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/52.m3u8
 #EXTINF:-1,NBCSN Match Time 5 HD (Shows Other Channels To)*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/53.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/53.m3u8
 #EXTINF:-1,NBCSN Match Time 6 HD (Shows Other Channels To)*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/54.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/54.m3u8
 #EXTINF:-1,NBCSN Match Time 7 HD (Shows Other Channels To)*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/55.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/55.m3u8
 #EXTINF:-1,NBC Live Sports Extra 1 HD* (USA Network)
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/68.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/68.m3u8
 #EXTINF:-1,NBC Live Sports Extra 2 HD* (Syfy USA)
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/69.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/69.m3u8
 #EXTINF:-1,NBC Live Sports Extra 3 HD* (Spike)
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/70.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/70.m3u8
 #EXTINF:-1,NBC Live Sports Extra 4 HD* (SportsNet One)
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/71.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/71.m3u8
 #EXTINF:-1,NBC Live Sports Extra 5 HD* (CBS Sports)
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/72.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/72.m3u8
 
-#EXTINF:-1,SportsNet West HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/3.m3u8
-#EXTINF:-1,SportsNet 360 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/2.m3u8
-#EXTINF:-1,SportsNet One HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/100.m3u8
 #EXTINF:-1,SportsNet World HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/4.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/4.m3u8
+#EXTINF:-1,SportsNet World HD (might not work on kodi) USE MXPLAYER & IPTV LOADER OR SIMILAR
+http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.m3u8
 #EXTINF:-1,SportsNet World LQ
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/243.m3u8|User-agent=monkey
-#EXTINF:-1,SportsNet Onterio LQ
-http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/245.m3u8|User-agent=monkey
+#EXTINF:-1,SportsNet One HD (might not work on kodi)
+http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.m3u8
+#EXTINF:-1,SportsNet One HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/100.m3u8
+#EXTINF:-1,SportsNet One
+http://62.210.190.12:80/live/SPORT177/213916/2063.ts
 #EXTINF:-1,SportsNet One LQ
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/244.m3u8|User-agent=monkey
 #EXTINF:-1,SportsNet One LQ
 rtmp://185.63.255.18:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
-#EXTINF:-1,SportsNet World HD (might not work on kodi) USE MXPLAYLER & IPTV LOADER
-http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.m3u8
-#EXTINF:-1,SportsNet Ontario HD (might not work on kodi)
-http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_ontario/as/live/sn_ontario_hd_3000.m3u8
-#EXTINF:-1,SportsNet One HD (might not work on kodi)
-http://nlds181.cdnak.neulion.com/nlds/sportsnetnow/sn_one/as/live/sn_one_hd_3000.m3u8
+#EXTINF:-1,SportsNet 360 HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/2.m3u8
 #EXTINF:-1,SportsNet 360 HD (might not work on kodi)
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000.m3u8
-#EXTINF:-1,SportsNet Pacific HD (might not work on kodi)
-http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_3000.m3u8
-#EXTINF:-1,SportsNet East HD (might not work on kodi)
-http://nlds186.cdnak.neulion.com/nlds/sportsnetnow/sn_east/as/live/sn_east_hd_3000.m3u8
+#EXTINF:-1,SportsNet Ontario HD (might not work on kodi)
+http://nlds185.cdnak.neulion.com/nlds/sportsnetnow/sn_ontario/as/live/sn_ontario_hd_3000.m3u8
+#EXTINF:-1,SportsNet Onterio LQ
+http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/245.m3u8|User-agent=monkey
+#EXTINF:-1,SportsNet West HD*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/3.m3u8
 #EXTINF:-1,SportsNet West HD (might not work on kodi)
 http://nlds189.cdnak.neulion.com/nlds/sportsnetnow/sn_west/as/live/sn_west_hd_3000.m3u8
+#EXTINF:-1,SportsNet East HD (might not work on kodi)
+http://nlds186.cdnak.neulion.com/nlds/sportsnetnow/sn_east/as/live/sn_east_hd_3000.m3u8
+#EXTINF:-1,SportsNet Pacific HD (might not work on kodi)
+http://nlds184.cdnak.neulion.com/nlds/sportsnetnow/sn_pacific/as/live/sn_pacific_hd_3000.m3u8
 
 #EXTINF:-1,Astro Supersports 1 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/148.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/148.m3u8
 #EXTINF:-1,Astro Supersports 2 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/149.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/149.m3u8
 #EXTINF:-1,Astro Supersports 3 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/150.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/150.m3u8
 #EXTINF:-1,Astro Supersports 4 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/151.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/151.m3u8
 
-#EXTINF:-1,CTH STADIUM 1 HD
+#EXTINF:-1,CTH Stadium 1 HD
 http://149.202.207.8:8080/cth1/sallu/index.m3u8
-#EXTINF:-1,CTH STADIUM 2 HD
+#EXTINF:-1,CTH Stadium 2 HD
 http://149.202.207.8:8080/cth2/sallu/index.m3u8
-#EXTINF:-1,CTH STADIUM 3 HD
+#EXTINF:-1,CTH Stadium 3 HD
 http://149.202.207.8:8080/cth3/sallu/index.m3u8
-#EXTINF:-1,CTH STADIUM 4 HD
+#EXTINF:-1,CTH Stadium 4 HD
 http://149.202.207.8:8080/cth4/sallu/index.m3u8
-#EXTINF:-1,CTH STADIUM 5 HD
+#EXTINF:-1,CTH Stadium 5 HD
 http://149.202.207.8:8080/cth5/sallu/index.m3u8
-#EXTINF:-1,CTH STADIUM 6 HD
+#EXTINF:-1,CTH Stadium 6 HD
 http://149.202.207.8:8080/cth6/sallu/index.m3u8
-#EXTINF:-1,CTH STADIUM X HD
+#EXTINF:-1,CTH Stadium X HD
 http://149.202.207.8:8080/cthx/sallu/index.m3u8
 #EXTINF:-1,CTH Stadium 1 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/135.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/135.m3u8
 #EXTINF:-1,CTH Stadium 2 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/136.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/136.m3u8
 #EXTINF:-1,CTH Stadium 3 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/137.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/137.m3u8
 #EXTINF:-1,CTH Stadium 4 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/138.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/138.m3u8
 #EXTINF:-1,CTH Stadium 5 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/139.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/139.m3u8
 #EXTINF:-1,CTH Stadium 6 HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/140.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/140.m3u8
 #EXTINF:-1,CTH Stadium X HD*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/141.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/141.m3u8
 
 #EXTINF:-1,TSN 1*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/63.m3u8
-#EXTINF:-1,TSN 1*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/142.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/142.m3u8
 #EXTINF:-1,TSN 2*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/143.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/143.m3u8
 #EXTINF:-1,TSN 3*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/65.m3u8
-#EXTINF:-1,TSN 3*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/144.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/144.m3u8
 #EXTINF:-1,TSN 4*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/145.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/145.m3u8
 #EXTINF:-1,TSN 5*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/67.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/146.m3u8
+#EXTINF:-1,TSN 1*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/63.m3u8
+#EXTINF:-1,TSN 3*
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/65.m3u8
 #EXTINF:-1,TSN 5*
-http://iptvsatuk.ddns.net:8080/live/omgfucking/godstopstealingthislineyoufuckingtart/146.m3u8
+http://iptvsatuk.ddns.net:8080/live/Mc/hammmmmmerfuckedyomomma/67.m3u8
+#EXTINF:-1,TSN 1
+http://tinyurl.com/tsn1docs4you
+#EXTINF:-1,TSN 2
+http://tinyurl.com/tsn2docs4you
+#EXTINF:-1,TSN 3
+http://tinyurl.com/tsn3docs4you
+#EXTINF:-1,TSN 4
+http://tinyurl.com/h7jhd3n
+#EXTINF:-1,TSN 5
+http://tinyurl.com/tsn5docs4you
+#EXTINF:-1,TSN 1
+http://tinyurl.com/zzzfpne
+#EXTINF:-1,TSN 3
+http://tinyurl.com/zcl2d9o
+#EXTINF:-1,TSN 5
+http://tinyurl.com/hr8h5qv
+#EXTINF:-1,TSN 1
+http://boxiptv.noip.us:9998/live/jarod/skype/752.ts
+#EXTINF:-1,TSN 3
+http://boxiptv.noip.us:9998/live/jarod/skype/754.ts
+#EXTINF:-1,TSN 4
+http://boxiptv.noip.us:9998/live/jarod/skype/755.ts
+#EXTINF:-1,TSN 5
+http://boxiptv.noip.us:9998/live/jarod/skype/756.ts
 
-#EXTINF:-1,TSN Sports 1 SD
-rtmp://31.220.2.148:1935/live/_definst_/ts1
-
+#EXTINF:-1,Star Sports 1
+http://tinyurl.com/docs4you123
+#EXTINF:-1,Star Sports 2
+http://tinyurl.com/jgtn7jz
+#EXTINF:-1,Star Sports 3
+http://tinyurl.com/h5rv937
+#EXTINF:-1,Star Sports 4
+http://tinyurl.com/zz2fyyc
 #EXTINF:-1,Star Sports 2 SD
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/150.m3u8|User-agent=monkey
 #EXTINF:-1,Star Sports 4 SD
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/149.m3u8|User-agent=monkey
+
+#EXTINF:-1,Japan Sports 1 HD
+http://203.162.235.45:17930
+#EXTINF:-1,Japan Sports 2 HD
+http://203.162.235.45:17931
+#EXTINF:-1,Japan Sports 3 HD
+http://203.162.235.45:17932
+#EXTINF:-1,Japan Sports 4 HD
+http://203.162.235.45:17933
+#EXTINF:-1,Japan Sports 1 HD
+http://203.162.235.45:17930
+#EXTINF:-1,Japan Sports 2 HD
+http://203.162.235.45:17931
+#EXTINF:-1,Japan Sports 3 HD
+http://203.162.235.45:17932
+#EXTINF:-1,Japan Sports 4 HD
+http://203.162.235.45:17933
+
+#EXTINF:-1,Match - Football 1 HD UKR
+http://188.138.9.19:7777/play/a09v
+#EXTINF:-1,Match - Football 2 HD UKR
+http://188.138.9.19:7777/play/a09w
+#EXTINF:-1,Match - Football 3 HD UKR
+http://188.138.9.19:7777/play/a09x
+#EXTINF:-1,Orf Sport HD
+http://tinyurl.com/orfspdocs4you
 
 #EXTINF:-1,Eurosport 1
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/50.m3u8|User-agent=monkey
@@ -275,45 +504,18 @@ http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/49.m3u8|Use
 
 #EXTINF:-1,Bein Sports USA
 http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/26.m3u8|User-agent=monkey
-#EXTINF:-1,Bein Sport 1
-http://crotv.dyndns.biz:8088/live?channelId=682&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 2
-http://crotv.dyndns.biz:8088/live?channelId=683&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 3
-http://crotv.dyndns.biz:8088/live?channelId=684&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 3
-http://dzandecembar1.dyndns.org:8088/live?channelId=556&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 4
-http://crotv.dyndns.biz:8088/live?channelId=685&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 5
-http://crotv.dyndns.biz:8088/live?channelId=686&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 6
-http://crotv.dyndns.biz:8088/live?channelId=687&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 7
-http://crotv.dyndns.biz:8088/live?channelId=688&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 8
-http://crotv.dyndns.biz:8088/live?channelId=689&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 9
-http://crotv.dyndns.biz:8088/live?channelId=690&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 10
-http://crotv.dyndns.biz:8088/live?channelId=691&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 11
-http://crotv.dyndns.biz:8088/live?channelId=692&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 12
-http://crotv.dyndns.biz:8088/live?channelId=693&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 13
-http://crotv.dyndns.biz:8088/live?channelId=694&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 14
-http://crotv.dyndns.biz:8088/live?channelId=695&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 15
-http://crotv.dyndns.biz:8088/live?channelId=696&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Bein Sport 16
-http://crotv.dyndns.biz:8088/live?channelId=697&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Bein Sport USA
+http://tinyurl.com/beinusadocs4you
+#EXTINF:-1,USA Bein USA
+http://boxiptv.noip.us:9998/live/jarod/skype/726.ts
 #EXTINF:-1,Bein Sport 11 HD
 http://195.154.207.145:8000/play/beinshd11
 #EXTINF:-1,Bein Sport 12 HD
 http://195.154.207.145:8000/play/beinshd12
-
+#EXTINF:-1,BeinSport 11 HD
+http://tinyurl.com/bein11docs4you
+#EXTINF:-1,Bein Sport 12 HD
+http://tinyurl.com/bein12docs4you
 #EXTINF:-1,Bein Sport 1
 http://tinyurl.com/hnmkebz
 #EXTINF:-1,Bein Sport 2
@@ -365,20 +567,53 @@ http://149.202.198.114:8000/play/beinshd11
 http://149.202.198.114:8000/play/beinshd12
 #EXTINF:0,Bein Sport 13 HD
 http://149.202.198.114:8000/play/beins13hd
-#EXTINF:-1,Bein Sport 1 HD French
-http://s01.mtvi.info:80/live?channelId=103&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Bein Sport 2 HD French
-http://s01.mtvi.info:80/live?channelId=104&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Bein Sport 3 HD French
-http://s01.mtvi.info:80/live?channelId=105&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:-1,Bein Sport HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/1.ts
+#EXTINF:-1,bein2_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/2.ts
+#EXTINF:-1,bein3_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/3.ts
+#EXTINF:-1,bein4_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/4.ts
+#EXTINF:-1,bein5_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/5.ts
+#EXTINF:-1,bein6_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/6.ts
+#EXTINF:-1,bein7_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/7.ts
+#EXTINF:-1,bein8_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/8.ts
+#EXTINF:-1,bein9_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/9.ts
+#EXTINF:-1,bein10_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/10.ts
+#EXTINF:-1,bein11_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/11.ts
+#EXTINF:-1,bein12_FULL_HD
+http://becha-tv.ddns.net:8000/live/nasr/nasr/12.ts
 #EXTINF:-1,Bein Max 5 FR
 http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/31.m3u8|User-agent=monkey
 #EXTINF:-1,Bein Max 4 FR
 http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/30.m3u8|User-agent=monkey
 #EXTINF:-1,Big Ten Network (BTN)
+http://tinyurl.com/BTN-Docs4you
+#EXTINF:-1,Big Ten Network (BTN)
 http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/94.m3u8|User-agent=monkey
 #EXTINF:-1,PTV
 http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/147.m3u8|User-agent=monkey
+
+#EXTINF:-1,Sport TV 1 HD
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/57.ts
+#EXTINF:-1,Sport TV 1
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/302.ts
+#EXTINF:-1,Sport TV 2
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/13.ts
+#EXTINF:-1,Sport TV 3
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/14.ts
+#EXTINF:-1,Sport TV 4
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/15.ts
+#EXTINF:-1,Sport TV 5
+http://ptiptv.zapto.org:8000/live/PAGINA_PTIPTV_ADIRA/PAGINA_PTIPTV_ADIRA/87.ts
 
 #EXTINF:0,Sport TV 1
 http://51.255.81.190:8080/PT:SPORT.TV1/mono.m3u8
@@ -391,40 +626,30 @@ http://51.255.81.190:8080/PT:SPORT.TV4/mono.m3u8
 #EXTINF:0,Sport TV 5
 http://51.255.81.190:8080/PT:SPORT.TV5/mono.m3u8
 
-#EXTINF:-1,Arena Sport HD 1 CRO
-http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=78&uid=3584&deviceUser=tecic101&devicePass=tecic101
-#EXTINF:-1,Arena Sport HD 2 CRO
-http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=80&uid=3584&deviceUser=tecic101&devicePass=tecic101
-#EXTINF:-1,Arena Sport HD 4 CRO
-http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=84&uid=3584&deviceUser=tecic101&devicePass=tecic101
-#EXTINF:-1,Arena Sport HD 1 CRO
-http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=78&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Arena Sport HD 2 CRO
-http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=80&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Arena Sport HD 3 CRO
-http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=404&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,Arena Sport HD 4 CRO
-http://10gbitsrv2.dyndns-at-home.com:8088/live?channelId=84&uid=5475&deviceUser=admirasikira&devicePass=admira
+#EXTINF:-1,Arena Sport 1 HR 
+http://212.39.119.122:9000/play/a00v
+#EXTINF:-1,Arena Sport 1 
+http://212.39.119.122:9000/play/a00s
+#EXTINF:-1,Arena Sport 2 
+http://212.39.119.122:9000/play/a00t
+#EXTINF:-1,Arena Sport 3 
+http://212.39.119.122:9000/play/a00w
+#EXTINF:-1,Arena Sport 4 
+http://212.39.119.122:9000/play/a00u
+
 #EXTINF:-1,Arena Sport 1
-http://s01.mtvi.info:80/live?channelId=154&uid=1&deviceUser=alen&devicePass=alen
+http://becha-tv.ddns.net:8000/live/test_site/test_site/550.ts
 #EXTINF:-1,Arena Sport 2
-http://s01.mtvi.info:80/live?channelId=155&uid=1&deviceUser=alen&devicePass=alen
+http://becha-tv.ddns.net:8000/live/test_site/test_site/551.ts
 #EXTINF:-1,Arena Sport 3
-http://s01.mtvi.info:80/live?channelId=156&uid=1&deviceUser=alen&devicePass=alen
+http://becha-tv.ddns.net:8000/live/test_site/test_site/552.ts
 #EXTINF:-1,Arena Sport 4
-http://s01.mtvi.info:80/live?channelId=157&uid=1&deviceUser=alen&devicePass=alen
+http://becha-tv.ddns.net:8000/live/test_site/test_site/553.ts
 #EXTINF:-1,Arena Sport 5
-http://s01.mtvi.info:80/live?channelId=158&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Arena Sport 1 HR
-http://s01.mtvi.info:80/live?channelId=159&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Arena Sport 2 HR
-http://s01.mtvi.info:80/live?channelId=160&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Arena Sport 3 HR
-http://s01.mtvi.info:80/live?channelId=161&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Arena Sport 4 HR
-http://s01.mtvi.info:80/live?channelId=162&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Arena Sport 5 HR
-http://s01.mtvi.info:80/live?channelId=174&uid=1&deviceUser=alen&devicePass=alen
+http://becha-tv.ddns.net:8000/live/test_site/test_site/554.ts
+#EXTINF:-1,Arena Sport TV2
+http://becha-tv.ddns.net:8000/live/test_site/test_site/549.ts
+
 #EXTINF:-1,Arena Sport 1
 http://tinyurl.com/Docs4you-arnasp1
 #EXTINF:-1,Arena Sport 2
@@ -434,12 +659,33 @@ http://tinyurl.com/gpkrxmf
 #EXTINF:-1,Arena Sport 4
 http://tinyurl.com/h2tf8k2
 
+#EXTINF:-1,Arena Sport 1 HR
+http://ip-tv.uk.to/freetv/freetv/2065.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://ip-tv.uk.to/freetv/freetv/2066.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://ip-tv.uk.to/freetv/freetv/2067.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://ip-tv.uk.to/freetv/freetv/2068.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://ip-tv.uk.to/freetv/freetv/2069.ts
+
+#EXTINF:-1,Sport Klub 1
+http://ip-tv.uk.to/freetv/freetv/2070.ts
+#EXTINF:-1,Sport Klub 2
+http://ip-tv.uk.to/freetv/freetv/2071.ts
+#EXTINF:-1,Sport Klub 3
+http://ip-tv.uk.to/freetv/freetv/2072.ts
+#EXTINF:-1,Sport Klub 4
+http://ip-tv.uk.to/freetv/freetv/2073.ts
+
 #EXTINF:-1,Sport Klub 1
 http://tinyurl.com/Docs4you-sk1
 #EXTINF:-1,Sport Klub 2
 http://tinyurl.com/Docs4you-sk2
 #EXTINF:-1,Sport Klub 3
 http://tinyurl.com/Docs4you-sk3
+
 #EXTINF:-1,Sport Klub 1 SR
 http://tinyurl.com/Docs4you-sk1sr
 #EXTINF:-1,Sport Klub 2 SR
@@ -447,23 +693,30 @@ http://tinyurl.com/Docs4you-sk2sr
 #EXTINF:-1,Sport Klub 3 SR
 http://tinyurl.com/Docs4you-sk3sr
 
-#EXTINF:-1,SuperSport 1
-http://freeiptv2search.dyndns.tv:2801/live?channelId=349&uid=3584&deviceUser=tecic101&devicePass=tecic101
-#EXTINF:-1,SuperSport 2
-http://freeiptv2search.dyndns.tv:2801/live?channelId=350&uid=3584&deviceUser=tecic101&devicePass=tecic101
-#EXTINF:-1,SuperSport 3
-http://sangajstream.dyndns.biz:80/live?channelId=351&uid=3584&deviceUser=tecic101&devicePass=tecic101
-#EXTINF:-1,SuperSport 1
-http://freeiptv2search.dyndns.tv:2801/live?channelId=349&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,SuperSport 2
-http://freeiptv2search.dyndns.tv:2801/live?channelId=350&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,SuperSport 3
-http://sangajstream.dyndns.biz:80/live?channelId=351&uid=5475&deviceUser=admirasikira&devicePass=admira
-
-#EXTINF:-1,ORF Sport+
-http://stream6.dyndns.tv:8888/live?channelId=153&uid=5475&deviceUser=admirasikira&devicePass=admira
-#EXTINF:-1,ORF Sport+
-http://stream6.dyndns.tv:8888/live?channelId=153&uid=3584&deviceUser=tecic101&devicePass=tecic101
+#EXTINF:0,Fox Sports 1 Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE02.m3u8
+#EXTINF:0,Fox Sports 2 Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE02.m3u8
+#EXTINF:0,Fox Sports 1 HD Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE02.m3u8
+#EXTINF:0,Fox Sports 2 HD Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE02.m3u8
+#EXTINF:0,ESPN 1 HD Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE02.m3u8
+#EXTINF:0,ESPN 2 HD Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE02.m3u8
+#EXTINF:0,ESPN Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE02.m3u8
+#EXTINF:0,ESPN 2 Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE02.m3u8
+#EXTINF:0,ESPN + HD Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE02.m3u8
+#EXTINF:0,ESPN 3 HD Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE02.m3u8
+#EXTINF:0,ESPN + Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE02.m3u8
+#EXTINF:0,ESPN 3 Latin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE02.m3u8
 
 #EXTINF:-1,CBC Sport HD
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/anis_sat.m3u8
@@ -482,6 +735,20 @@ http://217.30.73.36:4000/udp/239.1.2.34:11111
 #EXTINF:-1,Sport 2 HD
 http://217.30.73.36:4000/udp/239.1.1.39:11111
 
+#EXTINF:-1,DIgi Sport 1
+http://becha-tv.ddns.net:8000/live/test_site/test_site/783.ts
+#EXTINF:-1,DIgi Sport 2
+http://becha-tv.ddns.net:8000/live/test_site/test_site/782.ts
+#EXTINF:-1,DIgi Sport 3
+http://becha-tv.ddns.net:8000/live/test_site/test_site/781.ts
+#EXTINF:-1,DIgi Sport 4
+http://becha-tv.ddns.net:8000/live/test_site/test_site/780.ts
+#EXTINF:-1,DIgi Sport 1
+http://62.210.190.12:80/live/SPORT177/213916/2054.ts
+#EXTINF:-1,DIgi Sport 2
+http://62.210.190.12:80/live/SPORT177/213916/2055.ts
+#EXTINF:-1,DIgi Sport 3
+http://62.210.190.12:80/live/SPORT177/213916/2056.ts
 #EXTINF:-1,Digi Sport 1
 http://89.35.34.254:9095/digisport1
 #EXTINF:-1,Digi Sport 2
@@ -491,10 +758,13 @@ http://89.35.34.254:22222/digisport3
 #EXTINF:-1,Digi Sport 4
 http://82.76.249.33/digiedge/digisport4hq/index.m3u8
 
-#EXTINF:-1,Sky Sport 1 HD DE
-http://s01.mtvi.info:80/live?channelId=18&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Sky Sport 2 HD DE
-http://s01.mtvi.info:80/live?channelId=17&uid=1&deviceUser=alen&devicePass=alen
+#EXTINF:0,Extreme Sports HD
+http://130.185.248.20:53337/play/a004
+#EXTINF:0,Polsat Sport HD
+http://130.185.248.20:53337/play/fx6lop
+#EXTINF:0,Polsat Sport Extra HD
+http://130.185.248.20:53337/play/fx6lor
+
 #EXTINF:-1,Sky Sport 1  HD DE
 http://tinyurl.com/jnb38bz
 #EXTINF:-1,Sky Sport 2 HD DE
@@ -505,10 +775,6 @@ http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/269.m3u8|User-
 http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/246.m3u8|User-agent=monkey
 #EXTINF:-1,Sky Bundesliga HD 1
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/60.m3u8|User-agent=monkey
-#EXTINF:-1,Sky Bundesliga HD 1
-http://s01.mtvi.info:80/live?channelId=19&uid=1&deviceUser=alen&devicePass=alen
-#EXTINF:-1,Sky Bundesliga
-http://strimer06.vlagor-iptv.com:80/live?channelId=212&uid=783&deviceUser=gzim&devicePass=17102015
 #EXTINF:-1,Racing
 http://s1.wssiptv.com:8000/live/line4/oijoajsdojasodaodoiejre1123123/84.m3u8|User-agent=monkey
 #EXTINF:-1,NHL Network
@@ -539,20 +805,41 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://tinyurl.com/gvm9ean
 #EXTINF:-1,Boxnation
 http://tinyurl.com/zlguoks
-#EXTINF:-1,At The Races
-http://tinyurl.com/hpa5hor
+#EXTINF:-1,ESPN 2 USA
+http://boxiptv.noip.us:9998/live/jarod/skype/732.ts
+#EXTINF:-1,ESPN 1 USA
+http://boxiptv.noip.us:9998/live/jarod/skype/733.ts
+#EXTINF:-1,NBA USA
+http://boxiptv.noip.us:9998/live/jarod/skype/738.ts
+
+#EXTINF:-1,OSN Sport 1
+http://boxiptv.noip.us:9998/live/jarod/skype/537.ts
+#EXTINF:-1,OSN Sport 2 EN
+http://boxiptv.noip.us:9998/live/jarod/skype/538.ts
+#EXTINF:-1,OSN Sport 3
+http://boxiptv.noip.us:9998/live/jarod/skype/539.ts
+#EXTINF:-1,OSN Sport 4
+http://boxiptv.noip.us:9998/live/jarod/skype/540.ts
+
+#EXTINF:-1,MBC Pro Sports 1 HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/451.ts
+#EXTINF:-1,MBC Pro Sports 2 HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/452.ts
+#EXTINF:-1,MBC Pro Sports 3 HD
+http://becha-tv.ddns.net:8000/live/test_site/test_site/453.ts
+
 #EXTINF:-1,MLS / NBA HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
+#EXTINF:-1,Nova Sports
+http://tinyurl.com/NovaSp-Docs4you
 #EXTINF:-1,O Sport SD
 http://92.62.234.204:2222/udp/239.4.0.101:1234
-#EXTINF:-1,Bahrain Sports
-http://iaa.flashmediacast.com:2387/live/Sports/chunklist_w314573105.m3u8
-#EXTINF:-1,Trace Sport Stars
-http://185.46.163.221:4477/TraceSportStars
-#EXTINF:-1,Auto Motor Sport channel HD
-http://185.46.163.221:6090/AMSHD-str6
-
+#EXTINF:-1,Nile Sport
+http://tinyurl.com/nilesp-docs4you-org
+#EXTINF:-1,AL Iraqiya Sport
+http://tinyurl.com/iraqispo-docs4you
+#EXTINF:-1,Abo Dhabi Sport
+http://tinyurl.com/abudabsp-docs4you
 #EXTINF:-1,Dubai Sports HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1,Dubai Sports
@@ -563,6 +850,14 @@ http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b12000
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,Bahrain Sports
 http://iaa.flashmediacast.com:2387/live/Sports/chunklist_w314573105.m3u8
+#EXTINF:-1,M4 Sport
+http://62.210.190.12:80/live/SPORT177/213916/2036.ts
+#EXTINF:-1,IDMAN TV AZE
+http://62.210.190.12:80/live/SPORT177/213916/2071.ts
+#EXTINF:-1,TYC Sports ARG
+http://62.210.190.12:80/live/SPORT177/213916/2035.ts
+#EXTINF:-1,Viasat Sport
+http://62.210.190.12:80/live/SPORT177/213916/2057.ts
 
 #EXTINF:-1,BBC 1
 http://50.7.149.58:8000/live/line4/oijoajsdojasodaodoiejre1123123/22.m3u8|User-agent=monkey
