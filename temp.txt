@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<item>
+<title>Enjoy Guys...Hope All Streams Will Be Nice...</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8</link>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 SD</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8</link>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 HD</title>
+<link>http://tinyurl.com/Fox-Sports-1-By-Docs4you</link>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 HD</title>
+<link>http://tinyurl.com/docs4youfoxsports1</link>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.190.12:80/live/SPORT177/213916/2068.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/147852369/147852369/2212.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/147852369/147852369/2207.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 SD</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8</link>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+</item>

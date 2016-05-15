@@ -11,6 +11,14 @@
 </channel>
 
 <channel>
+<name>SportsLogins4u IPTV - [B][COLOR cornflowerblue]Fight Night[/COLOR][/B]</name>
+<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/temp.txt</externallink>
+<fanart>http://mmanewssource.com/wp-content/uploads/2015/09/UFC-Fight-Night-Logo.jpg</fanart>
+<info>SportsLogins4u IPTV - Fight Night</info>
+</channel>
+
+<channel>
 <name>SportsLogins4u IPTV - List docs4you.org</name>
 <thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/docs4you.txt</externallink>
