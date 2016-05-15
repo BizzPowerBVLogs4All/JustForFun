@@ -4,13 +4,7 @@
 
 <item>
 <title>Enjoy Guys...Hope All Streams Will Be Nice...</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8</link>
-<thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
-</item>
-
-<item>
-<title>Fox Sports 1 SD</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-b.m3u8</link>
+<link>http://dummy.tv</link>
 <thumbnail>https://lh3.ggpht.com/dK9D0FkzapHeZwc0Rs8V4ZLGGX0JJx72VADffG_EFzI9Q5cN7T4AEwhi50VTgzOJo44=w300</thumbnail>
 </item>
 
