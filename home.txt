@@ -28,7 +28,7 @@
 
 <channel>
 <name>[B][I][COLOR cornflowerblue]Mix Sports Channels[/COLOR][/I][/B]</name>
-<thumbnail>https://i.ytimg.com/vi/0NwI421m62E/maxresdefault.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/3.txt</externallink>
 <fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
 <info>SportsLogins4u IPTV</info>
