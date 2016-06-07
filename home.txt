@@ -43,7 +43,7 @@
 </channel>
 
 <channel>
-<name>[B][I][COLOR cornflowerblue]Bein Sports (Server Related)[/COLOR][/I][/B]</name>
+<name>[B][I][COLOR cornflowerblue]Bein Sport (Server Related)[/COLOR][/I][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/5.txt</externallink>
 <fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
