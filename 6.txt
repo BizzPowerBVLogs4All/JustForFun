@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<item>
+<title>Bundesliga HD 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2189.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport Time 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1821.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport Time TV 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2220.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport Time 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1820.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport Time TV 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2221.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport Time 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1819.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport Time 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1818.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport Time TV 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2223.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport Time 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1817.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport Time TV 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2224.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport Time 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1816.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1777.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1775.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2719.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1776.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2721.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport 1  HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2665.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport Austria</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2722.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2666.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+</item>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+<item>	
+<title>Bein Sports 1 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1882.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 2 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1883.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 3 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1884.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 4 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1885.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 5 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1886.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 6 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1887.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 7 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1888.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 9 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1890.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 8 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1889.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 10 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1891.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 11 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2757.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 12 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2756.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
+	
+<item>	
+<title>Bein Sports 13 HD</title>	
+<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2755.ts&amp;streamtype=TSDOWNLOADER</link>	
+<thumbnail>http://redesigngroup.com/wp-content/uploads/2014/02/bein_sport_02-1232x602.jpg</thumbnail>	
+</item>	
