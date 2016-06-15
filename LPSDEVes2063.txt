@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+
+
+<item>
+<title>RTE One</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/922.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>RTE Two</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/923.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1256.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/301.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BBC One HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/297.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Two HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/298.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Three HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/299.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Four HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/300.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>TG4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1263.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>ITV HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1080.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1081.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1082.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>ITV 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1083.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>CBS Reality</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1209.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>CBS Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1210.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>CBS Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1211.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>London Live</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1128.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Channel 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/270.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Channel 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1079.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Home</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1255.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky News HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/812.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/279.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/280.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport / ESPN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1257.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport EuroHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1215.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/273.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/274.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/275.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/276.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/277.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/278.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Box Nation</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1711.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Setanta Ireland</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/281.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1259.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Motors TV UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1258.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/266.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/267.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Film4 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1086.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Arts 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1254.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Select HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/257.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Premiere</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/264.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Great & Modern</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1207.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Disney HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1253.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Drama</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/258.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Disney Channel UK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1090.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Disney HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/282.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/806.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/261.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky ScFi/HorHD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/263.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Showcase</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1087.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Family</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1088.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Action</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1089.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Living</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1085.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Movies Thriller</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/260.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky True Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/271.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky True Movies 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/272.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Dave</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/269.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Fox</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1208.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Syfy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/265.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Good Food</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1213.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Food Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1212.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>NatGeo Graphic</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/286.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>National Geography Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/807.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Sc</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/291.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery History</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/292.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Turbo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1106.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery CI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/290.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/289.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery World</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1260.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/288.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Nick Jr.</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/1084.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Nicktoons</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/284.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/285.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/283.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/es/es/813.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
