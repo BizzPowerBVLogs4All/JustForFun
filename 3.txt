@@ -3,107 +3,133 @@
 <item>
 
 <item>
-<title>Fox Sports 1 (Dutch)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1753.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>TRT Spor Yedek (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5958.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Fox Sports 2 (Dutch)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2961.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>TRT Spor HD (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5939.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Fox Sports 4 (Dutch)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1756.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sports TV (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5956.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Fox Sports 5 (Dutch)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1757.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Ntv Spor HD (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5950.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Lig TV 1 (Turkey)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1812.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>EuroSport 1 HD (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5959.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Lig TV 2 (Turkey)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1813.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>EuroSport 2 HD (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5960.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Lig TV 3 (Turkey)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1814.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>A Spor HD (Turkey)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5952.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>TRT Spor (Turkey)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2513.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sport TV 1 (Portugal)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5926.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>NTV Sport (Turkey)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1912.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sport TV 2 (Portugal)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5927.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>A Sport (Turkey)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1959.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sport TV 3 (Portugal)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5928.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 1 HD (Portugal)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/3155.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sport TV 4 (Portugal)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5929.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 2 HD (Portugal)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/3156.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sport TV 5 (Portugal)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5930.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 3 HD (Portugal)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/3157.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Fox Sport 1 (Netherlands)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5931.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 4 HD (Portugal)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/3158.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Fox Sport 2 (Netherlands)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5932.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sport TV 5 HD (Portugal)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/3193.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Fox Sport 3 (Netherlands)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5933.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sporting TV (Portugal)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/3170.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Fox Sport 4 (Netherlands)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5934.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
+<item>
+<title>Fox Sport 5 (Netherlands)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5935.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
 
+<item>
+<title>Fox Sport 6 (Netherlands)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5936.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
 
+<item>
+<title>Sky Sport 1 (Germany)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/6000.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
 
+<item>
+<title>Sky Sport 2 (Germany)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/6001.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
 
+<item>
+<title>Sky Bundes Liga (Germany)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/6003.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
 
-
-
-
-
+<item>
+<title>Sky Sport F1 (Germany)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/6002.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>

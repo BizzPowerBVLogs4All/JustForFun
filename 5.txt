@@ -3,181 +3,121 @@
 <item>
 
 <item>
-<title>Bein Sport 1 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2964.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 1 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5912.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 1 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2965.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 2 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5913.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 1 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2966.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 3 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5914.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 2 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2967.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 4 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5915.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 2 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2968.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 5 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5916.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 2 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2969.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 6 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5917.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 3 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2970.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 7 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5918.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 3 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2971.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 8 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5919.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 3 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2972.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 9 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5920.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 4 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2973.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 10 (Arabian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5921.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 4 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2974.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 1 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5676.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 4 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2975.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 2 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5675.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 5 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2976.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport 3 HD (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5674.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 5 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2977.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport MAX 4 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5682.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 5 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2978.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport MAX 5 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5681.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 6 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2979.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport MAX 6 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5680.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 6 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2980.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport MAX 7 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5679.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 6 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2981.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport MAX 8 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5678.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 7 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2982.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport MAX 9 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5677.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Bein Sport 7 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2983.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 7 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2984.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 8 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2985.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 8 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2986.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 8 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2987.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 9 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2988.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 9 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2989.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 9 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2990.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 10 HD (Server 1)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2991.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 10 HD (Server 2)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2992.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 10 HD (Server 3)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2993.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Bein Sport MAX 10 (France)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5683.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>

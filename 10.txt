@@ -1,74 +1,123 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]Updated - 7thJune - [/COLOR]
+#EXTINF:-1,[COLOR yellow]THIS PLAYLIST BELONGS TO - SportsLogins4You - Lots Of Goodies Including Free World Playlists[/COLOR]
 http://
+#EXTINF:-1,[COLOR blue]Disclaimer - All Streams On This List Are FREELY Available From Various SITES Around the Internet[/COLOR]
+http://
+#EXTINF:-1,[COLOR red]Updated - 1 july [/COLOR]
+http://
+EXTINF:-1,AR- beINSPORTS-1HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/428.ts
+#EXTINF:-1,AR- beINSPORTS-2HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/429.ts
+#EXTINF:-1,AR- beINSPORTS-3HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/430.ts
+#EXTINF:-1,AR- beINSPORTS-4HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/431.ts
+#EXTINF:-1,AR- beINSPORTS-5HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/432.ts
+#EXTINF:-1,AR- beINSPORTS-6HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/433.ts
+#EXTINF:-1,AR- beINSPORTS-7HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/434.ts
+#EXTINF:-1,AR- beINSPORTS-8HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/435.ts
+#EXTINF:-1,AR- beINSPORTS-9HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/436.ts
+#EXTINF:-1,AR- beINSPORTS-10HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/437.ts
+#EXTINF:-1,AR_BEIN SPORTS 11HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/1602.ts
+#EXTINF:-1,AR_BEIN_SPORTS_12HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/1603.ts
+#EXTINF:-1,AR:BEINSPORT_13HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/966.ts
+#EXTINF:-1,AR:BEINSPORT_14HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/967.ts
+#EXTINF:-1,AR:BEINSPORT_15HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/968.ts
+#EXTINF:-1,AR:BEINSPORT_16HD
+http://sadatek57.dyndns.tv:8000/live/star7/you57/969.ts
+#EXTINF:-1,SuperSport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,SuperSport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,SuperSport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,SuperSport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1, SKY SPORTS 1 [UK]
+http://149.202.207.8:8080/sk1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 2 [UK]
+http://149.202.207.8:8080/sk2-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 3 [UK] 
+http://149.202.207.8:8080/sk3-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 4 [UK]
+http://149.202.207.8:8080/sk4-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, SKY SPORTS 5 [UK]
+http://149.202.207.8:8080/sk5-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, BT SPORTS 1
+http://149.202.207.8:8080/bts1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, BT SPORTS 2
+http://149.202.207.8:8080/bts2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, Eurosport 2
+http://149.202.85.84:8080/EuroSp2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Eurosport
+http://149.202.85.84:8080/EuroSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Real Madrid
+http://149.202.207.8:8080/real-madrid-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, BT Sport Europe
+http://149.202.85.84:8080/btSpEUrope-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, BT Sport ESPN
+http://149.202.85.84:8080/btEspn-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, Arena Sport 1
+http://149.202.85.84:8080/arenaSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, Arena Sport 2
+http://149.202.85.84:8080/arenaSp2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, Arena Sport 3
+http://149.202.85.84:8080/arenaSp3-94506afdjklfg/local/index.m3u8
+#EXTINF:-1, Arena Sport 5
+http://149.202.85.84:8080/arenaSp5-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,SkySportsF1
+http://149.202.207.8:8080/skf1-94506afdjklfg/sallu/index.m3u8
 
+#EXTINF:-1, CTH1 Stadium
+http://149.202.207.8:8080/cth1-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, CTH2 Stadium
+http://149.202.207.8:8080/cth2-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, CTH3 Stadium
+http://149.202.207.8:8080/cth3-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, CTH4 Stadium
+http://149.202.207.8:8080/cth4-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1, CTH5 Stadium
+http://149.202.207.8:8080/cth5-94506afdjklfg/sallu/index.m3u8
+#EXTINF:-1,Super Sports 1
+http://149.202.85.84:8080/supSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Super Sports 2
+http://149.202.85.84:8080/supSp2-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Super Sports 3
+http://149.202.85.84:8080/supSp3-94506afdjklfg/local/index.m3u8
+#EXTINF:-1,Super Sport 4
+http://149.202.85.84:8080/supSp4-94506afdjklfg/local/index.m3u8
 
-#EXTINF:-1 tvg-id="UK: Sky Sports 1" tvg-link="" tvg-name="UK: Sky Sports 1" tvg-logo="" group-title="Domaci",UK: Sky Sports 1 - UK: Sky Sports 1
-http://centurionlukavac.com:80/live?channelId=154&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Sky Sports 2" tvg-link="" tvg-name="UK: Sky Sports 2" tvg-logo="" group-title="Domaci",UK: Sky Sports 2 - UK: Sky Sports 2
-http://centurionlukavac.com:80/live?channelId=155&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Sky Sports 3" tvg-link="" tvg-name="UK: Sky Sports 3" tvg-logo="" group-title="Domaci",UK: Sky Sports 3 - UK: Sky Sports 3
-http://centurionlukavac.com:80/live?channelId=156&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Sky Sports 4" tvg-link="" tvg-name="UK: Sky Sports 4" tvg-logo="" group-title="Domaci",UK: Sky Sports 4 - UK: Sky Sports 4
-http://centurionlukavac.com:80/live?channelId=157&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Sky Sports 5" tvg-link="" tvg-name="UK: Sky Sports 5" tvg-logo="" group-title="Domaci",UK: Sky Sports 5 - UK: Sky Sports 5
-http://centurionlukavac.com:80/live?channelId=158&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Sky Sports F1" tvg-link="" tvg-name="UK: Sky Sports F1" tvg-logo="" group-title="Domaci",UK: Sky Sports F1 - UK: Sky Sports F1
-http://centurionlukavac.com:80/live?channelId=159&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Sky Sports News HD" tvg-link="" tvg-name="UK: Sky Sports News HD" tvg-logo="" group-title="Domaci",UK: Sky Sports News HD - UK: Sky Sports News HD
-http://centurionlukavac.com:80/live?channelId=160&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: BT Sports 1 SD" tvg-link="" tvg-name="UK: BT Sports 1 SD" tvg-logo="" group-title="Domaci",UK: BT Sports 1 SD - UK: BT Sports 1 SD
-http://centurionlukavac.com:80/live?channelId=161&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: BT Sports 2 SD" tvg-link="" tvg-name="UK: BT Sports 2 SD" tvg-logo="" group-title="Domaci",UK: BT Sports 2 SD - UK: BT Sports 2 SD
-http://centurionlukavac.com:80/live?channelId=162&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: BT Sports Europe HD" tvg-link="" tvg-name="UK: BT Sports Europe HD" tvg-logo="" group-title="Domaci",UK: BT Sports Europe HD - UK: BT Sports Europe HD
-http://centurionlukavac.com:80/live?channelId=163&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Setanta Sports Ireland" tvg-link="" tvg-name="UK: Setanta Sports Ireland" tvg-logo="" group-title="Domaci",UK: Setanta Sports Ireland - UK: Setanta Sports Ireland
-http://centurionlukavac.com:80/live?channelId=164&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: ESPN HD" tvg-link="" tvg-name="UK: ESPN HD" tvg-logo="" group-title="Domaci",UK: ESPN HD - UK: ESPN HD
-http://centurionlukavac.com:80/live?channelId=165&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: MUTV" tvg-link="" tvg-name="UK: MUTV" tvg-logo="" group-title="Domaci",UK: MUTV - UK: MUTV
-http://centurionlukavac.com:80/live?channelId=166&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Chelsea tv" tvg-link="" tvg-name="UK: Chelsea tv" tvg-logo="" group-title="Domaci",UK: Chelsea tv - UK: Chelsea tv
-http://centurionlukavac.com:80/live?channelId=167&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: At The Races" tvg-link="" tvg-name="UK: At The Races" tvg-logo="" group-title="Domaci",UK: At The Races - UK: At The Races
-http://centurionlukavac.com:80/live?channelId=168&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Liverpool FC" tvg-link="" tvg-name="UK: Liverpool FC" tvg-logo="" group-title="Domaci",UK: Liverpool FC - UK: Liverpool FC
-http://centurionlukavac.com:80/live?channelId=169&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Motors Tv" tvg-link="" tvg-name="UK: Motors Tv" tvg-logo="" group-title="Domaci",UK: Motors Tv - UK: Motors Tv
-http://centurionlukavac.com:80/live?channelId=170&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: Boxnation" tvg-link="" tvg-name="UK: Boxnation" tvg-logo="" group-title="Domaci",UK: Boxnation - UK: Boxnation
-http://centurionlukavac.com:80/live?channelId=171&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="UK: PREMIER SPORT" tvg-link="" tvg-name="UK: PREMIER SPORT" tvg-logo="" group-title="Domaci",UK: PREMIER SPORT - UK: PREMIER SPORT
-http://centurionlukavac.com:80/live?channelId=173&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="ARENA SPORT 1" tvg-link="" tvg-name="ARENA SPORT 1" tvg-logo="" group-title="Domaci",ARENA SPORT 1
-http://centurionlukavac.com:80/live?channelId=65&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="ARENA SPORT 2" tvg-link="" tvg-name="ARENA SPORT 2" tvg-logo="" group-title="Domaci",ARENA SPORT 2
-http://centurionlukavac.com:80/live?channelId=66&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="ARENA SPORT 3" tvg-link="" tvg-name="ARENA SPORT 3" tvg-logo="" group-title="Domaci",ARENA SPORT 3
-http://centurionlukavac.com:80/live?channelId=67&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="ARENA SPORT 4" tvg-link="" tvg-name="ARENA SPORT 4" tvg-logo="" group-title="Domaci",ARENA SPORT 4
-http://centurionlukavac.com:80/live?channelId=68&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="ARENA SPORT 5" tvg-link="" tvg-name="ARENA SPORT 5" tvg-logo="" group-title="Domaci",ARENA SPORT 5
-http://centurionlukavac.com:80/live?channelId=254&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="SPORT KLUB 1" tvg-link="" tvg-name="SPORT KLUB 1" tvg-logo="" group-title="Domaci",SPORT KLUB 1
-http://centurionlukavac.com:80/live?channelId=71&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="SPORT KLUB 2" tvg-link="" tvg-name="SPORT KLUB 2" tvg-logo="" group-title="Domaci",SPORT KLUB 2
-http://centurionlukavac.com:80/live?channelId=72&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="SPORT KLUB 3" tvg-link="" tvg-name="SPORT KLUB 3" tvg-logo="" group-title="Domaci",SPORT KLUB 3
-http://centurionlukavac.com:80/live?channelId=73&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="SPORT KLUB 1 SR" tvg-link="" tvg-name="SPORT KLUB 1 SR" tvg-logo="" group-title="Domaci",SPORT KLUB 1 SR
-http://centurionlukavac.com:80/live?channelId=74&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="SPORT KLUB 2 SR" tvg-link="" tvg-name="SPORT KLUB 2 SR" tvg-logo="" group-title="Domaci",SPORT KLUB 2 SR
-http://centurionlukavac.com:80/live?channelId=75&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="SPORT KLUB 3 SR" tvg-link="" tvg-name="SPORT KLUB 3 SR" tvg-logo="" group-title="Domaci",SPORT KLUB 3 SR
-http://centurionlukavac.com:80/live?channelId=76&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="BEIN Sports 1" tvg-link="" tvg-name="BEIN Sports 1" tvg-logo="" group-title="Domaci",BEIN Sports 1
-http://centurionlukavac.com:80/live?channelId=247&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="BEIN Sports 2" tvg-link="" tvg-name="BEIN Sports 2" tvg-logo="" group-title="Domaci",BEIN Sports 2
-http://centurionlukavac.com:80/live?channelId=248&uid=7&deviceUser=sina&devicePass=sina
-#EXTINF:-1 tvg-id="BEIN Sports 3" tvg-link="" tvg-name="BEIN Sports 3" tvg-logo="" group-title="Domaci",BEIN Sports 3
-http://centurionlukavac.com:80/live?channelId=249&uid=7&deviceUser=sina&devicePass=sina
+#EXTINF:-1,IT-Sky-SportHD1
+http://195.12.170.153:8003/play/IT-Sky-SportHD1
+#EXTINF:-1,IT-SkySuper-TennisHD
+http://195.12.170.153:8003/play/IT-SkySuper-TennisHD
+#EXTINF:-1,IT-Eurosport-2
+http://195.12.170.153:8003/play/IT-Eurosport-2
+#EXTINF:-1,IT-Sky-SportsHD3
+http://195.12.170.153:8003/play/IT-Sky-SportsHD3
+#EXTINF:-1,IT-Premium-SportHD
+http://195.12.170.153:8003/play/IT-Premium-SportHD
+#EXTINF:-1,IT-Rai-Sport1
+http://195.12.170.153:8003/play/IT-Rai-Sport1
+#EXTINF:-1,IT-SportItalia
+http://195.12.170.153:8003/play/IT-SportItalia
+#EXTINF:-1,IT-Sky-SportF1HD
+http://195.12.170.153:8003/play/IT-Sky-SportF1HD
+#EXTINF:-1,Super Sport 2
+http://87.106.252.50:8000/live/france2016/albaniaiptv.com/770.ts
+
 #EXTINF:-1,Sky Sports 1
 http://80.243.182.106:8080/Sk/SpoooS101/index.m3u8
 #EXTINF:-1,Sky Sports 3

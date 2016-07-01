@@ -2,80 +2,170 @@
 
 <item>
 
-<item>	
-<title>Bein Sports 1 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1882.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 2 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1883.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 3 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1884.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 4 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1885.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 5 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1886.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 6 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1887.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 7 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1888.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 9 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1890.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 8 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1889.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 10 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1891.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 11 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2757.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 12 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2756.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
-	
-<item>	
-<title>Bein Sports 13 HD</title>	
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2755.ts&amp;streamtype=TSDOWNLOADER</link>	
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>	
-</item>	
+<item>
+<title>Arena Sport 1 HD (Sebrenica)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5922.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 2 HD (Sebrenica)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5923.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 3 HD (Sebrenica)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5924.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 4 HD (Sebrenica)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5925.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Digitalb Super Sport 1 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/3515.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Digitalb Super Sport 2 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/3516.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Digitalb Super Sport 3 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/3517.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Digitalb Super Sport 4 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/3518.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Digitalb Super Sport 5 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/3519.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 1 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1802.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 2 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1803.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 3 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1804.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 4 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1805.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Arena Sport 5 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1806.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport Klub 1 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1799.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport Klub 2 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1800.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport Klub 3 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1801.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport Klub Start (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1798.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>SS 1 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1791.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>SS 2 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1792.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>SS 3 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1793.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>SS 4 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1794.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Tele Sport (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1808.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Tring Sport (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1757.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Tring Sport 1 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1824.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Tring Sport 2 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1825.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Tring Sport 3 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1826.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>
+
+<item>
+<title>Tring Sport 4 (Albanian)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/1827.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
+</item>

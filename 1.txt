@@ -3,181 +3,97 @@
 <item>
 
 <item>
-<title>BBC 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1901.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sky Sports News HD (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5697.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>BBC 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1902.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sky Sports F1 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5698.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>BBC 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1903.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sky Sports 1 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5706.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>BBC 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1904.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sky Sports 2 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5705.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>ITV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1898.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sky Sports 3 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5704.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>ITV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1899.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sky Sports 4 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5702.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>ITV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1900.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Sky Sports 5 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5700.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>ITV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1549.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>BT Sport Extra (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5798.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>ITV Be</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1548.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>BT Sport Europe HD (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5799.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>ITV 1 Plus 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1550.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>BT Sport 1 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5802.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Syfy One Plus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1561.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>BT Sport 2 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5800.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1546.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Premier Sports (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5737.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky Atlantic Plus 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1563.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Box Nation (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5804.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>MTV Rocks</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1554.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Racing (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5736.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Food Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1560.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Eurosport 1 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5766.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>
 
 <item>
-<title>Disney Chanel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1565.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Discovery Science</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1556.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Pick</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1547.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Cbbc</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1552.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Sky One</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1990.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Two</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1989.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Sky News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1545.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Action</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1991.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1978.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>B4U Movies</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/1973.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Discovery Shed</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2361.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2357.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Natgeo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2376.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>National Geographic Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2375.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>MTV Music</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/souhaila/souhaila/2359.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://2.bp.blogspot.com/-Z6rpO5wYC78/VRmV1N86PFI/AAAAAAAAA2M/KCaIpKwzGCE/s1600/img_iptv_logo.png</thumbnail>
+<title>Eurosport 2 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/malek/malek/5764.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/logo.png</thumbnail>
 </item>

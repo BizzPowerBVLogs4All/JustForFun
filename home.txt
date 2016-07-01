@@ -1,0 +1,69 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Kodi Master Maintenance[/COLOR][/I][/B]</name>
+<thumbnail>http://www.kodimaster.com/wp-content/uploads/avatars/1/3262a519f12b9dcc58bb6aabc8ff4d37-bpfull.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/CleanCache.txt</externallink>
+<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
+<info>SportsLogins4u IPTV</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]UK Sports Channels[/COLOR][/I][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.txt</externallink>
+<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
+<info>SportsLogins4u IPTV</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]USA, Italy Sports Channels[/COLOR][/I][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/2.txt</externallink>
+<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
+<info>SportsLogins4u IPTV</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Turkey, Portugal, Netherlands, Germany Sports Channels[/COLOR][/I][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/3.txt</externallink>
+<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
+<info>SportsLogins4u IPTV</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Sebrenica, Albanian, Sports Channels[/COLOR][/I][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/4.txt</externallink>
+<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
+<info>SportsLogins4u IPTV</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Arabian, France Sport Channels[/COLOR][/I][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/5.txt</externallink>
+<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
+<info>SportsLogins4u IPTV</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]EPL Sport Channels[/COLOR][/I][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/6.txt</externallink>
+<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
+<info>SportsLogins4u IPTV</info>
+</channel>
+
+<channel>
+<name>[B][I][COLOR cornflowerblue]Docs4You Channels[/COLOR][/I][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/10.txt</externallink>
+<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
+<info>SportsLogins4u IPTV</info>
+</channel>
+
+</channels>
