@@ -15,7 +15,7 @@
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 3 (Offline)[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://151.80.101.14:8000get.php?username=00009&amp;password=00009&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnoQc6v4hZ.m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
