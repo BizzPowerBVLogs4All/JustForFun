@@ -1,20 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 1</title>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 1[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&amp;password=miroxtoip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
-<item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 2</title><link>http://Ignoreme</link><externallink>http://globiptv.com:8000/get.php?username=axAPJqZWgD&amp;password=6695D0708&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink></item>
+<item>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 2[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://globiptv.com:8000/get.php?username=axAPJqZWgD&amp;password=6695D0708&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+</item>
 
-<item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 3</title><link>http://Ignoreme</link><externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=7&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 3[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=7&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
 
-<item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 4</title><link>http://Ignoreme</link><externallink>http://namiptv.ddns.net:6969/get.php?username=namiptv.ddns.net&amp;password=321&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 4[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://namiptv.ddns.net:6969/get.php?username=namiptv.ddns.net&amp;password=321&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
 
-<item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 5</title><link>http://Ignoreme</link><externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=6&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 5[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=6&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
 
-<item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 6</title><link>http://Ignoreme</link><externallink>http://mediaipro.com:8000/get.php?username=frsq10&amp;password=frsq10&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 6[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mediaipro.com:8000/get.php?username=frsq10&amp;password=frsq10&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
 
-<item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 7</title><link>http://Ignoreme</link><externallink>http://91.134.217.235:1557/get.php?username=MIXM3I&amp;password=cbsGygPACv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 7[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://91.134.217.235:1557/get.php?username=MIXM3I&amp;password=cbsGygPACv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
