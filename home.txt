@@ -1,21 +1,9 @@
-<layouttype>thumbnail</layouttype>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-<channels>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Kodi Master Maintenance[/COLOR][/I][/B]</name>
-<thumbnail>http://www.kodimaster.com/wp-content/uploads/avatars/1/3262a519f12b9dcc58bb6aabc8ff4d37-bpfull.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/CleanCache.txt</externallink>
-<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
-<info>SportsLogins4u IPTV</info>
-</channel>
-
-<channel>
-<name>[B][I][COLOR cornflowerblue]Server Related IPTV Channels[/COLOR][/I][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/1.png</thumbnail>
+<item>
+<title>[B][COLOR deepskyblue]Login4You IPTV Servers[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/1.png</thumbnail>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/serrel.txt</externallink>
-<fanart>http://1.bp.blogspot.com/-z2D0C-p-SMM/UjgvBW7hJbI/AAAAAAAAAfQ/phyvI32IzeU/s1600/best+map.jpg</fanart>
-<info>SportsLogins4u IPTV</info>
-</channel>
-
-</channels>
+</item>
