@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-
-
-<item>
-<title>[B][COLOR yellow]Clear Cache[/COLOR][/B]</title>
-<link>http://dummy.tv</link>
-<jsonrpc>plugin://script.kodimastermaintenance/</jsonrpc>
-<thumbnail>http://www.kodimaster.com/wp-content/uploads/avatars/1/3262a519f12b9dcc58bb6aabc8ff4d37-bpfull.jpg</thumbnail>
-</item>
