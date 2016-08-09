@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item>
-<title>[B][I][COLOR deepskyblue]Logins4You IPTV Will Be Back Soon...[/COLOR][/I][/B]</title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-</item>
