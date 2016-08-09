@@ -9,7 +9,7 @@
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4You Server 2[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://91.134.217.235:1557/get.php?username=MIXM3I&amp;password=cbsGygPACv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://orbit-iptv.com:2500/get.php?username=mjgQe8LGny&amp;password=f2MQEyu0i7&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
