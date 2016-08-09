@@ -13,9 +13,9 @@
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 3 (Offline)[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 3[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/SnoQc6v4hZ.m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://globe2.midomed.com:80/get.php?username=toto&amp;password=toto&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
