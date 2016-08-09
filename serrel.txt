@@ -45,5 +45,5 @@
 <thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/logo.png</thumbnail>
 <fanart>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/fanart.jpg</fanart>
 <link>http://ignorame</link><thumbnail>http://www.air-concepts.nl/en/images/en.png</thumbnail><fanart></fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/ukservers.txt</externallink>
 </item>
