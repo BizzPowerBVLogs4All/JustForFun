@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4You Server 1[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 1[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&amp;password=miroxtoip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4You Server 2[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 2[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://pro.satlover.com:58080/get.php?username=theglades&amp;password=4pvZSJQBU0&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4You Server 3 (Offline)[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 3 (Offline)[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://151.80.101.14:8000get.php?username=00009&amp;password=00009&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4You Server 4 (Offline)[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 4 (Offline)[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://91.134.217.235:1557/get.php?username=1234**&amp;password=2cpIPBee5d&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4You Server 5 (Offline)[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 5 (Offline)[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://91.134.217.235:1557/get.php?username=OLYMPICS&amp;password=hoHcR11Ie2&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
