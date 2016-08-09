@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 1</title><link>http://Ignoreme</link><externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&password=miroxtoip&type=m3u&output=mpegtsTSDOWNLOADER$$</externallink></item>
+<item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 1</title><link>http://Ignoreme</link><externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&password=miroxtoip&type=m3uTSDOWNLOADER</externallink></item>
 
 <item><title>[B][I][COLOR deepskyblue]Logins4You[/COLOR][/I][/B] Server 2</title><link>http://Ignoreme</link><externallink>http://globiptv.com:8000/get.php?username=axAPJqZWgD&amp;password=6695D0708&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
 </externallink></item>
