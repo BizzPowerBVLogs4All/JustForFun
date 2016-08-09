@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[B][I][COLOR deepskyblue]UK Server 1[/COLOR][/I][/B]</title>
+<thumbnail>http://lh3.googleusercontent.com/dUSpv2dRWN1G3tjnWs7Uz8LWxMw45Q5nMLSACIg_s7zHKeeXFXhOqv-KWCxMqKE_57g=w225</thumbnail>
+<fanart>http://iptvlinks.info/wp-content/uploads/2016/02/ukflag.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>http://lh3.googleusercontent.com/dUSpv2dRWN1G3tjnWs7Uz8LWxMw45Q5nMLSACIg_s7zHKeeXFXhOqv-KWCxMqKE_57g=w225</thumbnail>
+<fanart>http://iptvlinks.info/wp-content/uploads/2016/02/ukflag.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,UK:(.*?)\n(.*)</expres>
+<page>http://mediaipro.com:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
