@@ -3,31 +3,39 @@
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 1[/COLOR][/I][/B]</title>
 <thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/logo.png</thumbnail>
-<fanart>http://orig13.deviantart.net/eafb/f/2009/190/3/f/espanawallpaper_by_andresmac.jpg</fanart>
+<fanart>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/fanart.jpg</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&amp;password=miroxtoip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 2[/COLOR][/I][/B]</title>
+<thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/logo.png</thumbnail>
+<fanart>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/fanart.jpg</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://iptv-world.ddns.me:8000/get.php?username=carlito&amp;password=carlito&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 3[/COLOR][/I][/B]</title>
+<thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/logo.png</thumbnail>
+<fanart>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/fanart.jpg</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://globe2.midomed.com:80/get.php?username=toto&amp;password=toto&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 4[/COLOR][/I][/B]</title>
+<thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/logo.png</thumbnail>
+<fanart>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/fanart.jpg</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://camerta.com:8000/get.php?username=riadh1681&amp;password=chaaben1681&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 5[/COLOR][/I][/B]</title>
+<thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/logo.png</thumbnail>
+<fanart>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/fanart.jpg</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://topiptv.net:5890/get.php?username=adil&amp;password=adil2016&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
