@@ -2,8 +2,8 @@
 
 <item>
 <title>[B][COLOR deepskyblue]Login4You IPTV Servers[/COLOR][/B]</title>
-<link>http://ignorame</link>
+<link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/serrel.txt</link>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/serrel.txt</externallink>
 <thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/1.png</thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/serrel.txt</externallink>
 </item>
