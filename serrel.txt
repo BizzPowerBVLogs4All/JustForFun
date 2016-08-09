@@ -39,3 +39,11 @@
 <link>http://Ignoreme</link>
 <externallink>http://topiptv.net:5890/get.php?username=adil&amp;password=adil2016&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
+
+<item>
+<title>[COLOR blue] [COLOR deepskyblue].UK TV Servers[/COLOR]</title>
+<thumbnail>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/logo.png</thumbnail>
+<fanart>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/fanart.jpg</fanart>
+<link>http://ignorame</link><thumbnail>http://www.air-concepts.nl/en/images/en.png</thumbnail><fanart></fanart>
+<externallink></externallink>
+</item>
