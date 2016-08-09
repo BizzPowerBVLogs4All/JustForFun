@@ -3,7 +3,7 @@
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4You Server 1[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&amp;password=miroxtoip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://149.202.194.36:8000/get.php?username=dary&amp;password=dary&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
