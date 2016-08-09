@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 5 (Offline)[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 5[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://topiptv.net:5890/get.php?username=adil&amp;password=adil2016&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
