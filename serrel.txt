@@ -19,9 +19,9 @@
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 4 (Offline)[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 4[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://91.134.217.235:1557/get.php?username=1234**&amp;password=2cpIPBee5d&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://camerta.com:8000/get.php?username=riadh1681&amp;password=chaaben1681&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
