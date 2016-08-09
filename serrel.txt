@@ -27,5 +27,5 @@
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 5 (Offline)[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://91.134.217.235:1557/get.php?username=OLYMPICS&amp;password=hoHcR11Ie2&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://topiptv.net:5890/get.php?username=adil&amp;password=adil2016&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
