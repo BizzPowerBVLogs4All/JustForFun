@@ -2,16 +2,16 @@
 
 <item>
 <title>[B][I][COLOR deepskyblue]UK Server 1[/COLOR][/I][/B]</title>
-<thumbnail>http://lh3.googleusercontent.com/dUSpv2dRWN1G3tjnWs7Uz8LWxMw45Q5nMLSACIg_s7zHKeeXFXhOqv-KWCxMqKE_57g=w225</thumbnail>
-<fanart>http://iptvlinks.info/wp-content/uploads/2016/02/ukflag.jpg</fanart>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
     <title>[makelist.param1]</title>
     <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
-    <thumbnail>http://lh3.googleusercontent.com/dUSpv2dRWN1G3tjnWs7Uz8LWxMw45Q5nMLSACIg_s7zHKeeXFXhOqv-KWCxMqKE_57g=w225</thumbnail>
-<fanart>http://iptvlinks.info/wp-content/uploads/2016/02/ukflag.jpg</fanart>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 ]]></listrepeat>
 <expres>#EXTINF:-1,UK:(.*?)\n(.*)</expres>
 <page>http://mediaipro.com:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u</page>
@@ -21,18 +21,113 @@
 
 <item>
 <title>[B][I][COLOR deepskyblue]USA Server 1[/COLOR][/I][/B]</title>
-<thumbnail>http://مبارياتاليوم.com/wp-content/uploads/2016/06/USA_Oval_Icon_PNG_Clipart-e1467468467610.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/Ycg-vXkhvAs/maxresdefault.jpg</fanart>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
     <title>[makelist.param1]</title>
     <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
-    <thumbnail>http://مبارياتاليوم.com/wp-content/uploads/2016/06/USA_Oval_Icon_PNG_Clipart-e1467468467610.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/Ycg-vXkhvAs/maxresdefault.jpg</fanart>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 ]]></listrepeat>
 <expres>#EXTINF:-1,US:(.*?)\n(.*)</expres>
+<page>http://mediaipro.com:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Arabia and Bein Sport Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,AR:(.*?)\n(.*)</expres>
+<page>http://mediaipro.com:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]France Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,FR:(.*?)\n(.*)</expres>
+<page>http://mediaipro.com:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Netherlands Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,NL:(.*?)\n(.*)</expres>
+<page>http://mediaipro.com:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Italy Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,IT:(.*?)\n(.*)</expres>
+<page>http://mediaipro.com:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Germany Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,DE:(.*?)\n(.*)</expres>
 <page>http://mediaipro.com:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
