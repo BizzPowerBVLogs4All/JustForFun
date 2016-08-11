@@ -13,7 +13,7 @@
     <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
 <fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 ]]></listrepeat>
-<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<expres>#EXTINF:-1,   (.*?)\n(.*)</expres>
 <page>http://kodi.iptvroku.com:8000/get.php?username=marcelo&amp;password=marcelo&amp;type=m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
