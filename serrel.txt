@@ -2,48 +2,64 @@
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Test Server 007[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/List_Logins4U.m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&amp;password=miroxtoip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 2[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://globiptv.com:8000/get.php?username=axAPJqZWgD&amp;password=6695D0708&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 3[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=7&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 4[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://namiptv.ddns.net:6969/get.php?username=namiptv.ddns.net&amp;password=321&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 5[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=6&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 6[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://mediaipro.com:8000/get.php?username=frsq10&amp;password=frsq10&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 7[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
 <externallink>http://91.134.217.235:1557/get.php?username=MIXM3I&amp;password=cbsGygPACv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
