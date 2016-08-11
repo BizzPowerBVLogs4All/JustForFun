@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 1[/COLOR][/I][/B]</title>
-<thumbnail>http://www.tv14.net/images/online-tv.gif</thumbnail>
-<fanart>http://unicpress.com/wp-content/uploads/2014/03/maxresdefault.jpg</fanart>
+<title>[B][I][COLOR deepskyblue]Logins4You Test Server 007[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/List_Logins4U.m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 1[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&amp;password=miroxtoip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 2[/COLOR][/I][/B]</title>
-<thumbnail>http://www.tv14.net/images/online-tv.gif</thumbnail>
-<fanart>http://unicpress.com/wp-content/uploads/2014/03/maxresdefault.jpg</fanart>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 2[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://iptv-world.ddns.me:8000/get.php?username=carlito&amp;password=carlito&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://globiptv.com:8000/get.php?username=axAPJqZWgD&amp;password=6695D0708&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 3[/COLOR][/I][/B]</title>
-<thumbnail>http://www.tv14.net/images/online-tv.gif</thumbnail>
-<fanart>http://unicpress.com/wp-content/uploads/2014/03/maxresdefault.jpg</fanart>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 3[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://globe2.midomed.com:80/get.php?username=toto&amp;password=toto&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=7&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 4[/COLOR][/I][/B]</title>
-<thumbnail>http://www.tv14.net/images/online-tv.gif</thumbnail>
-<fanart>http://unicpress.com/wp-content/uploads/2014/03/maxresdefault.jpg</fanart>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 4[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://camerta.com:8000/get.php?username=riadh1681&amp;password=chaaben1681&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://namiptv.ddns.net:6969/get.php?username=namiptv.ddns.net&amp;password=321&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 5[/COLOR][/I][/B]</title>
-<thumbnail>http://www.tv14.net/images/online-tv.gif</thumbnail>
-<fanart>http://unicpress.com/wp-content/uploads/2014/03/maxresdefault.jpg</fanart>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 5[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
-<externallink>http://topiptv.net:5890/get.php?username=adil&amp;password=adil2016&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=6&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U UK TV Servers and More[/COLOR][/I][/B]</title>
-<thumbnail>http://www.tv14.net/images/online-tv.gif</thumbnail>
-<fanart>http://unicpress.com/wp-content/uploads/2014/03/maxresdefault.jpg</fanart>
-<link>http://ignorame</link><thumbnail>http://www.air-concepts.nl/en/images/en.png</thumbnail><fanart></fanart>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/ukservers.txt</externallink>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 6[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mediaipro.com:8000/get.php?username=frsq10&amp;password=frsq10&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Logins4You Server 7[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://91.134.217.235:1557/get.php?username=MIXM3I&amp;password=cbsGygPACv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
