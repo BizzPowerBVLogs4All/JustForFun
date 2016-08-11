@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[B][I][COLOR deepskyblue]Logins4You Test Server 007[/COLOR][/I][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/List_Logins4U.m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
+
+<item>
 <title>[B][I][COLOR deepskyblue]Logins4You Server 1[/COLOR][/I][/B]</title>
 <link>http://Ignoreme</link>
 <externallink>http://37.187.252.93:8000/get.php?username=miroxtoip&amp;password=miroxtoip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
