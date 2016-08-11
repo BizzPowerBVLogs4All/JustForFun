@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Testing Purpose...Server 007[/COLOR][/I][/B]</title>
-<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
-<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[makelist.param1]</title>
-    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
-    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
-<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
-]]></listrepeat>
-<expres>#EXTINF:-1, (.*?)\n(.*)</expres>
-<page>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/List_Logins4U.m3u</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-</item>
-
-<item>
 <title>[B][I][COLOR deepskyblue]UK Server 1[/COLOR][/I][/B]</title>
 <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
 <fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
