@@ -2,8 +2,8 @@
 
 <item>
 <title>[B][I][COLOR deepskyblue]Logins4You Test Server 007[/COLOR][/I][/B]</title>
-<link>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/List_Logins4U.m3u&amp;output=mpegts$$TSDOWNLOADER$$</link>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/List_Logins4U.m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<link>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/List_Logins4U.m3u&amp;output=mpegts$$TSDOWNLOADER$$</link>
+<externallink>https://github.com/BizzPowerBVLogs4All/JustForFun/blob/master/List_Logins4U.m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
