@@ -21,7 +21,7 @@
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://globiptv.com:8000/get.php?username=axAPJqZWgD&amp;password=6695D0708&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://camerta.com:8000/get.php?username=riadh1681&amp;password=chaaben1681&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
@@ -29,7 +29,7 @@
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=7&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://globe2.midomed.com:80/get.php?username=toto&amp;password=toto&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
@@ -37,7 +37,7 @@
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://namiptv.ddns.net:6969/get.php?username=namiptv.ddns.net&amp;password=321&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://cp.dmbshare.net:8000/get.php?username=gwyndaf&amp;password=gwyndaf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
@@ -45,7 +45,7 @@
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&amp;password=6&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://cp.dmbshare.net:8000/get.php?username=uapgodi&amp;password=uapgodi&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
@@ -53,7 +53,7 @@
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://mediaipro.com:8000/get.php?username=frsq10&amp;password=frsq10&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://185.73.239.40:8000/get.php?username=saib&amp;password=fares&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
@@ -61,7 +61,7 @@
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://91.134.217.235:1557/get.php?username=MIXM3I&amp;password=cbsGygPACv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://178.33.226.36:8000/get.php?username=olsi&amp;password=olsi&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
