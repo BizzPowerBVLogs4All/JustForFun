@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR deepskyblue]UK Server 1[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]UK Server 1 (Updated 25/08/2016)[/COLOR][/I][/B]</title>
 <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
 <fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]USA Server 1[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]USA Server 1 (Updated 25/08/2016)[/COLOR][/I][/B]</title>
 <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
 <fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 <link>$doregex[makelist]</link>
