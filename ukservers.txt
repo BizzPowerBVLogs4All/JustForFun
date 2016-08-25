@@ -265,3 +265,118 @@
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Indian Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,HINDI(.*?)\n(.*)</expres>
+<page>http://orbit-iptv.com:2500/get.php?username=Jacques3&amp;password=Jacques3&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Punjabi Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,PUNJABI(.*?)\n(.*)</expres>
+<page>http://orbit-iptv.com:2500/get.php?username=Jacques3&amp;password=Jacques3&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Telegu Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,TELUGU(.*?)\n(.*)</expres>
+<page>http://orbit-iptv.com:2500/get.php?username=Jacques3&amp;password=Jacques3&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Tamil Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,Tamil(.*?)\n(.*)</expres>
+<page>http://orbit-iptv.com:2500/get.php?username=Jacques3&amp;password=Jacques3&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]Kannada Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,Kannada(.*?)\n(.*)</expres>
+<page>http://orbit-iptv.com:2500/get.php?username=Jacques3&amp;password=Jacques3&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]|Malayam Server 1[/COLOR][/I][/B]</title>
+<thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
+<fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,Mala(.*?)\n(.*)</expres>
+<page>http://orbit-iptv.com:2500/get.php?username=Jacques3&amp;password=Jacques3&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
