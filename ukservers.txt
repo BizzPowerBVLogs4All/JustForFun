@@ -362,7 +362,7 @@
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]|Malayam Server 1[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Malayam Server 1[/COLOR][/I][/B]</title>
 <thumbnail>https://lh3.googleusercontent.com/_vDCrcDrxUBSiCsK18N-Fkdxgdl-vLFYqffjXXdW5l8Ouz1EPmjlZI0cczxkTPRtr4ss=w300</thumbnail>
 <fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 <link>$doregex[makelist]</link>
