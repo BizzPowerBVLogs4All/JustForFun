@@ -33,11 +33,11 @@
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Logins4U Server 5 (Updated 20/08/2016)[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Logins4U Server 5 (Updated 26/08/2016)[/COLOR][/I][/B]</title>
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://149.202.201.221:8000/get.php?username=fr443500&amp;password=75019pa&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://iptv.proff.co:15003/get.php?username=sergio12&amp;password=sergio12&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
