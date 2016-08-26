@@ -37,7 +37,7 @@
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://iptv.proff.co:15003/get.php?username=sergio12&amp;password=sergio12&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://iptv-supplier.com:8000/get.php?username=210070886404&amp;password=566a94fd44fc2&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
