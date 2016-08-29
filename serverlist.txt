@@ -29,8 +29,8 @@
     <link>NA</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
-<expres>(http:\/\/shar-iptv.dynu.com:25461\/.*?get.php.*?)&lt;</expres>
-<page>http://freeiptv.weightlosstoday.org/</page>
+<expres>(http:\/\/.*\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
@@ -48,26 +48,7 @@
     <link>NA</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
-<expres>(http:\/\/orbit-iptv.com:2500\/.*?get.php.*?)&lt;</expres>
-<page>http://freeiptv.weightlosstoday.org/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[B][I]Server Various...World Local and Sports Channels[/I][/B]</title>
-<thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
-<fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/mediaipro.com:8000\/.*?get.php.*?)&lt;</expres>
+<expres>(http:\/\/.*\/.*?get.php.*?)&lt;</expres>
 <page>http://freeiptv.weightlosstoday.org/</page>
 <referer></referer>
 <cookieJar></cookieJar>
@@ -113,63 +94,6 @@
 </item>
 
 <item>
-<title>[B][I]Server Any IPTV...World Local and Sports Channels[/I][/B]</title>
-<thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
-<fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/.*\/.*?get.php.*?)&lt;</expres>
-<page>http://www.anyiptv.ru/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[B][I]Server Free IPTV...World Local and Sports Channels[/I][/B]</title>
-<thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
-<fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/.*\/.*?get.php.*?)&lt;</expres>
-<page>http://freeiptv.weightlosstoday.org//</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[B][I]Server Orbit...World Local and Sports Channels[/I][/B]</title>
-<thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
-<fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/orbit-iptv.com:2500\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
 <title>[B][I]Server Oneplaylist...World Local and Sports Channels[/I][/B]</title>
 <thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
 <fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
@@ -183,63 +107,6 @@
 ]]></listrepeat>
 <expres>(http:\/\/.*\/.*?get.php.*?)&lt;</expres>
 <page>http://www.oneplaylist.eu.pn/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[B][I]Server KSportsIPTV...World Local and Sports Channels[/I][/B]</title>
-<thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
-<fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/ksportiptv.com:1557\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[B][I]Server KSportsIPTV 2...World Local and Sports Channels[/I][/B]</title>
-<thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
-<fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/91.134.217.235:1557\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>[B][I]Server Bein Sports...Arab Local and Sports Channels[/I][/B]</title>
-<thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
-<fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>(http:\/\/151.80.101.14:8000\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
