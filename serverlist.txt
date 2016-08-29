@@ -30,7 +30,7 @@
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
 <expres>(http:\/\/.*\/.*?get.php.*?)&lt;</expres>
-<page>http://www.iptvbin.com/</page>
+<page>http://freeiptv.weightlosstoday.org//</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
