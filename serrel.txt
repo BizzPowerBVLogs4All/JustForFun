@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[B][I][COLOR deepskyblue]Logins4U Daily IPTV (Testfase)[/COLOR][/I][/B]</title>
+<thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
+<fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/serverlist.txt</externallink>
+</item>
+
+<item>
 <title>[B][I][COLOR deepskyblue]Logins4U Server 1 (Updated 20/08/2016)[/COLOR][/I][/B]</title>
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
