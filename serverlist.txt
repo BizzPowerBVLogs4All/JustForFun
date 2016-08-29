@@ -18,6 +18,25 @@
 </item>
 
 <item>
+<title>[B][I]Server Orbit...World Local and Sports Channels[/I][/B]</title>
+<thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
+<fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/orbit-iptv.com:2500\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
 <title>[B][I]Server IPTV Proff...World Local and Sports Channels[/I][/B]</title>
 <thumbnail>https://i1.sndcdn.com/artworks-000033545514-srx9qe-t500x500.jpg</thumbnail>
 <fanart>http://mosdesign.com.ph/wp-content/uploads/ngg_featured/Natuzzi-Santa-Maria-di-Leuca-feature.jpg</fanart>
