@@ -6,7 +6,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
     <link>NA</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
@@ -25,7 +25,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
     <link>NA</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
@@ -44,7 +44,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
     <link>NA</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
@@ -63,7 +63,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
     <link>NA</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
@@ -82,7 +82,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
     <link>NA</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
@@ -101,7 +101,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-     <title>[COLOR deepskyblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+     <title>[COLOR deepskyblue]Logins4U...[/COLOR]    [COLOR darkorange][I]([makelist.param1])[/I][/COLOR]  </title>
     <link>NA</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
