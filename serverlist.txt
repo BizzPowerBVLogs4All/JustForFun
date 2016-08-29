@@ -30,7 +30,7 @@
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
 <expres>(http:\/\/.*\/.*?get.php.*?)&lt;</expres>
-<page>http://www.iptvbin.com/2016/06/iptv-bin-playlist-simpletv-kodi-vlc.html/</page>
+<page>http://www.iptvbin.com/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
