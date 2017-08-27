@@ -69,13 +69,13 @@ http://epicstream.tv:7000/live/shane/shane/5098.ts
 http://epicstream.tv:7000/live/shane/shane/5099.ts
 #EXTINF:-1,Floyd Mayweather Jr. vs. Conor McGregor HD
 http://epicstream.tv:7000/live/shane/shane/5100.ts
-#EXTINF:-1,[COLOR gold][B]PPV BOXING THE MONEY FIGHT: MAYWEATHER VS. MCGREGOR 1080 LINK 1[COLOR white] 6:00 PM EST[/B][/COLOR]
+#EXTINF:-1,MAYWEATHER VS. MCGREGOR 1080 LINK 1
 http://gorilladick4.us:2086/live/sonny/sonny/900.ts
-#EXTINF:-1,[COLOR gold][B]PPV BOXING THE MONEY FIGHT: MAYWEATHER VS. MCGREGOR 720 LINK 1[COLOR white] 6:00 PM EST[/B][/COLOR]
+#EXTINF:-1,MAYWEATHER VS. MCGREGOR 720 LINK 1
 http://gorilladick4.us:2086/live/sonny/sonny/1702.ts
-#EXTINF:-1,[COLOR gold][B]PPV-BOXING COTTO VS KAMEGAI 1080 LINK 1[COLOR white] 9:45 PM EST[/B][/COLOR]
+#EXTINF:-1,COTTO VS KAMEGAI 1080 LINK 1
 http://gorilladick4.us:2086/live/sonny/sonny/1719.ts
-#EXTINF:-1,[COLOR gold][B]PPV-BOXING COTTO VS KAMEGAI 720 LINK 1[COLOR white] 9:45 PM EST[/B][/COLOR]
+#EXTINF:-1,COTTO VS KAMEGAI 720 LINK 1
 http://gorilladick4.us:2086/live/sonny/sonny/1721.ts
 #EXTINF:-1,Floyd Mayweather Jr. vs. Conor McGregor FHD
 http://epicstream.tv:7000/live/kelsey/kelsey/5097.ts
@@ -101,3 +101,9 @@ http://qualitylinesuk.ddns.net:5050/live/adi/adi/47005.ts
 http://qualitylinesuk.ddns.net:5050/live/adi/adi/47004.ts
 #EXTINF:-1,Mayweather vs McGregor (LINK 7)
 http://qualitylinesuk.ddns.net:5050/live/adi/adi/47003.ts
+#EXTINF:-1,SKY SPORTS BOX OFFICE McGREGOR VS MAYWEATHER (UNDERCARD)
+http://gold.deviantstudios.xyz:8080/live/greg/greg/14488.ts
+#EXTINF:-1,MAYWEATHER vs McGREGOR PPV (SHOWTIME)
+http://gold.deviantstudios.xyz:8080/live/greg/greg/14515.ts
+#EXTINF:-1,Floyd Mayweather vs. Conor McGregor 1080p (SHOWTIME)
+http://gold.deviantstudios.xyz:8080/live/greg/greg/14516.ts
