@@ -1,15 +1,168 @@
 <title>[COLOR lime]WARNING!! THIS IS A RESTRICTED AREA YOU DON'T BELONG HERE, AND YOU HAVE BEEN CAUGHT TRYING TO SNOOP ON OUR CONTENT, PLEASE REFRAIN FROM DOING SO [/COLOR]</title>
 
 <plugin>
-<title>[COLOR lime]Moviestreamer Movies[/COLOR]</title>
-<thumbnail>https://i.pinimg.com/736x/7f/7f/85/7f7f852973ac314c303fe0087dd1e1db--deadpool-action-figure-hero-movie.jpg</thumbnail>
-<link>http://dl.dlfile.pro/6/Movie%20HD/</link>
-<fanart>https://vignette.wikia.nocookie.net/marvelmovies/images/5/57/HeimdallsObservatory3-Thor.png/revision/latest?cb=20140208030237</fanart>
+<name>[COLOR lime]SEARCH[/COLOR]</name>
+<link>plugin://plugin.video.FTFA/?action=search</link>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/t37dChMFkq-6.png</thumbnail>
 </plugin>
 
 <plugin>
-<title>[COLOR lime]Moviestreamer TV Shows[/COLOR]</title>
-<thumbnail>https://i.pinimg.com/736x/7f/7f/85/7f7f852973ac314c303fe0087dd1e1db--deadpool-action-figure-hero-movie.jpg</thumbnail>
-<link>http://dl2.downloado.site/dl2/TV%20Show/</link>
-<fanart>https://vignette.wikia.nocookie.net/marvelmovies/images/5/57/HeimdallsObservatory3-Thor.png/revision/latest?cb=20140208030237</fanart>
+<name>[COLOR white]---------------------------------------------------------[/COLOR]</name>
+<link></link>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/HULK_post_master-1.jpg</thumbnail>
 </plugin>
+
+
+<dir>
+<title>[COLOR lime]Live TV server 1 UK IPTV[/COLOR] [COLOR yellow](ONLINE)[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/SERVERS/server1.m3u</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]Live TV server 2 UK IPTV [/COLOR] [COLOR yellow](ONLINE)[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/SERVERS/server2.m3u</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]Live TV server 3 UK IPTV [/COLOR] [COLOR yellow](ONLINE)[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/SERVERS/server3.m3u</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]Live TV server 4 USA IPTV[/COLOR] [COLOR yellow](ONLINE)[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/SERVERS/server4.m3u</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]Live TV server 5 USA IPTV[/COLOR] [COLOR yellow](ONLINE)[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/SERVERS/server5.m3u</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]UK/USA LIVE TV [/COLOR] [COLOR yellow](ONLINE)[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/testing/ukusalive.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]TV Shows and Movies from MadHibee[/COLOR] [COLOR yellow](ONLINE)[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/testing/madhibeetvmovies.m3u</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]24/7 TV Shows[/COLOR] [COLOR yellow](ONLINE)[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/testing/247test.m3u</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]PPV LIVE[/COLOR] [COLOR yellow][/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/testing/ppv.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]Movies 2017[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/MOVIES%202017/MOVIES%202017.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]Tv Shows and Movies [/COLOR] </title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/testing/index%20of.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+
+<dir>
+<title>[COLOR lime]Top Tracks from around the world[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/testing/Top%20Tracks.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]Fishing[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/fishing/fishing.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]How its made[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/how%20its%20made/How%20its%20made.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLOR lime]Darts Videos[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/darts/darts.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+<plugin>
+<title>[COLOR lime]Latest series of TV Shows[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://dl2.downloado.site/dl2/TV%20Show/</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR lime]Full TV Series 2017[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://dl.funsaber.net/serial/</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</plugin>
+
+
+<dir>
+<title>[COLOR red]TESTING[/COLOR]</title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://brettusbuilds.com/FTFA/testing/testing.xml</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
+
+
+<plugin>
+<title>[COLOR fuchsia][B]ADULT ZONE[/B][/COLOR]</title>
+<link>plugin://script.module.ftfa/?description&iconimage=special://addons\script.module.ftfa\icon.png&mode=99&name=[COLOR pink]G[/COLOR][COLOR pink]enre's[/COLOR]&url=http://www.xvideos.com/a</link>
+<thumbnail>https://www.topslotsite.com/wp-content/uploads/2015/06/18-Year-Above-Applys.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR white]-----------------------------------------------------------------[/COLOR]</name>
+<link></link>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/HULK_post_master-1.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<name>[COLOR lime]SETTINGS[/COLOR]</name>
+<link>plugin://plugin.video.FTFA/?action=openSettings</link>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/thumb-1920-347896.jpg</thumbnail>
+</plugin>
+
+
+
+
+
+
+
