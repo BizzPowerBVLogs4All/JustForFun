@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<title>[COLOR lime]WARNING!! THIS IS A RESTRICTED AREA YOU DON'T BELONG HERE, AND YOU HAVE BEEN CAUGHT TRYING TO SNOOP ON OUR CONTENT, PLEASE REFRAIN FROM DOING SO [/COLOR]</title>
 
-<tag>moviestreamer</tag>
-
-<item>
-<title>Avatar 3D 1080p</title>
-<link>http://dl.dlfile.pro/6/Movie%20HD/</link>
+<plugin>
+<title>[COLOR lime]Moviestreamer Movies[/COLOR]</title>
 <thumbnail>https://i.pinimg.com/736x/7f/7f/85/7f7f852973ac314c303fe0087dd1e1db--deadpool-action-figure-hero-movie.jpg</thumbnail>
+<link>http://dl.dlfile.pro/6/Movie%20HD/</link>
 <fanart>https://vignette.wikia.nocookie.net/marvelmovies/images/5/57/HeimdallsObservatory3-Thor.png/revision/latest?cb=20140208030237</fanart>
-</item>
+</plugin>
+
+<plugin>
+<title>[COLOR lime]Moviestreamer TV Shows[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/736x/7f/7f/85/7f7f852973ac314c303fe0087dd1e1db--deadpool-action-figure-hero-movie.jpg</thumbnail>
+<link>http://dl2.downloado.site/dl2/TV%20Show/</link>
+<fanart>https://vignette.wikia.nocookie.net/marvelmovies/images/5/57/HeimdallsObservatory3-Thor.png/revision/latest?cb=20140208030237</fanart>
+</plugin>
