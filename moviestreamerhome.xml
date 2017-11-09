@@ -1,10 +1,15 @@
-<layouttype>thumbnail</layouttype>
+<title>[COLOR lime]WARNING!! THIS IS A RESTRICTED AREA YOU DON'T BELONG HERE, AND YOU HAVE BEEN CAUGHT TRYING TO SNOOP ON OUR CONTENT, PLEASE REFRAIN FROM DOING SO [/COLOR]</title>
 
-<channels>
-<channel>
-<name>Movies</name>
-<thumbnail>http://hotholidaygifts.info/wp-content/uploads/2013/10/movies-icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/BizzPowerBVLogs4All/JustForFun/master/movies.xml</externallink>
-<fanart>http://www.lg.com/us/images/tv-audio-video/features/M01A_CategoryHero_TVs3D_1_Background.jpg</fanart>
-<info>british bulldog</info>
-</channel>
+<plugin>
+<title>[COLOR lime]Moviestreamer Movies[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/736x/7f/7f/85/7f7f852973ac314c303fe0087dd1e1db--deadpool-action-figure-hero-movie.jpg</thumbnail>
+<link>http://dl.dlfile.pro/6/Movie%20HD/</link>
+<fanart>https://vignette.wikia.nocookie.net/marvelmovies/images/5/57/HeimdallsObservatory3-Thor.png/revision/latest?cb=20140208030237</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR lime]Moviestreamer TV Shows[/COLOR]</title>
+<thumbnail>https://i.pinimg.com/736x/7f/7f/85/7f7f852973ac314c303fe0087dd1e1db--deadpool-action-figure-hero-movie.jpg</thumbnail>
+<link>http://dl2.downloado.site/dl2/TV%20Show/</link>
+<fanart>https://vignette.wikia.nocookie.net/marvelmovies/images/5/57/HeimdallsObservatory3-Thor.png/revision/latest?cb=20140208030237</fanart>
+</plugin>
